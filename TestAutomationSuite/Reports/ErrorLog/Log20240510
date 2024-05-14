@@ -1,0 +1,284 @@
+14:43:40 ==> DataBase Connection Established successfully
+14:43:40 ==> *** BOT IS ACTIVATED ***
+14:43:41 ==>  Started Processing... 
+14:43:41 ==>  picked up data file: UAT_Fire_Data.xlsx
+14:43:41 ==>  Picked up Action JSON of Project: FIRE
+14:43:43 ==>  Sheet name: TestData
+14:43:43 ==>  picked up row: 1
+14:43:43 ==>  Assigning Driver: Chrome Driver
+14:43:44 ==> Executing Action: 1 URL: Went to URL
+
+14:43:48 ==> Executing Action: 2 Select: User Type Selected
+
+14:43:49 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:43:51 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:43:52 ==> Executing Action: 5 Text: User Id entered
+
+14:43:53 ==> Executing Action: 6 Text: Password Entered
+
+14:43:54 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:43:56 ==> Executing Action: 8 Forceclick: Close button clicked
+
+14:43:58 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+14:44:00 ==> Executing Action: 10 Click: Sector dropdown clicked
+
+14:44:02 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:44:03 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:44:06 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:44:06 ==> Dropdown does not contain Alwrite Testing option, please check your input column value again
+14:44:09 ==>  Error in Action: 
+14:44:09 ==> *************** TEST FAILED ***************
+
+14:44:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:44:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:44:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:44:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:44:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:45:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:45:19 ==>  Started Processing... 
+14:45:19 ==>  picked up data file: UAT_Fire_Data.xlsx
+14:45:19 ==>  Picked up Action JSON of Project: FIRE
+14:45:19 ==>  Sheet name: TestData
+14:45:19 ==>  picked up row: 1
+14:45:19 ==>  Assigning Driver: Chrome Driver
+14:45:21 ==> Executing Action: 1 URL: Went to URL
+
+14:45:24 ==> Executing Action: 2 Select: User Type Selected
+
+14:45:26 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:45:28 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:45:29 ==> Executing Action: 5 Text: User Id entered
+
+14:45:30 ==> Executing Action: 6 Text: Password Entered
+
+14:45:31 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:45:33 ==> Executing Action: 8 Forceclick: Close button clicked
+
+14:45:35 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+14:45:37 ==> Executing Action: 10 Click: Sector dropdown clicked
+
+14:45:39 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:45:40 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:45:42 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:45:43 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:45:46 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:45:47 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:45:49 ==> Executing Action: 17 Wait: Wait
+
+14:45:53 ==> Executing Action: 18 Select: Category selected
+
+14:45:54 ==> Executing Action: 19 Wait: Wait
+
+14:46:00 ==> Executing Action: 20 Select: Product Selected
+
+14:46:01 ==> Executing Action: 21 Wait: Wait
+
+14:46:05 ==> Executing Action: 22 SelectMultipleData: Risk Location Occupancies entered
+
+14:46:35 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\ clientLocationId"}
+  (Session info: chrome=124.0.6367.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ProcessNamedLocations(String CreateButton, String locationsearchId, String occupancysearchId, String occupancyTypeId, String saveButton, String[] items, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 989
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelectMultipleData(String pathValue, String namedLocation, IWebDriver driver, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 956
+14:46:38 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\ clientLocationId"}
+  (Session info: chrome=124.0.6367.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ProcessNamedLocations(String CreateButton, String locationsearchId, String occupancysearchId, String occupancyTypeId, String saveButton, String[] items, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 989
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelectMultipleData(String pathValue, String namedLocation, IWebDriver driver, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 956
+14:46:38 ==> *************** TEST FAILED ***************
+
+14:46:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:46:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:46:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:47:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:47:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:47:29 ==>  Started Processing... 
+14:47:29 ==>  picked up data file: UAT_Fire_Data.xlsx
+14:47:29 ==>  Picked up Action JSON of Project: FIRE
+14:47:29 ==>  Sheet name: TestData
+14:47:29 ==>  picked up row: 1
+14:47:29 ==>  Assigning Driver: Chrome Driver
+14:47:31 ==> Executing Action: 1 URL: Went to URL
+
+14:47:35 ==> Executing Action: 2 Select: User Type Selected
+
+14:47:36 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:47:38 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:47:39 ==> Executing Action: 5 Text: User Id entered
+
+14:47:40 ==> Executing Action: 6 Text: Password Entered
+
+14:47:41 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:47:43 ==> Executing Action: 8 Forceclick: Close button clicked
+
+14:47:45 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+14:47:47 ==> Executing Action: 10 Click: Sector dropdown clicked
+
+14:47:49 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:47:51 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:47:53 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:47:54 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:47:56 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:47:57 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:47:59 ==> Executing Action: 17 Wait: Wait
+
+14:48:03 ==> Executing Action: 18 Select: Category selected
+
+14:48:04 ==> Executing Action: 19 Wait: Wait
+
+14:48:10 ==> Executing Action: 20 Select: Product Selected
+
+14:48:11 ==> Executing Action: 21 Wait: Wait
+
+14:48:15 ==> Executing Action: 22 SelectMultipleData: Risk Location Occupancies entered
+
+14:48:35 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\ clientLocationId"}
+  (Session info: chrome=124.0.6367.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ProcessNamedLocations(String CreateButton, String locationsearchId, String occupancysearchId, String occupancyTypeId, String saveButton, String[] items, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 989
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelectMultipleData(String pathValue, String namedLocation, IWebDriver driver, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 956
+14:48:38 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\ clientLocationId"}
+  (Session info: chrome=124.0.6367.201); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ProcessNamedLocations(String CreateButton, String locationsearchId, String occupancysearchId, String occupancyTypeId, String saveButton, String[] items, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 989
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelectMultipleData(String pathValue, String namedLocation, IWebDriver driver, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 956
+14:48:38 ==> *************** TEST FAILED ***************
+
+14:48:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:48:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:48:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:49:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:49:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:49:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:49:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:49:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:49:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:50:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:50:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:50:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:50:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:50:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:50:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:51:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:51:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:51:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:51:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:51:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:51:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:52:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:52:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:52:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:52:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:52:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:52:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:53:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:53:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:53:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:53:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:53:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:53:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:54:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:54:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:54:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:54:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:54:49 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:54:59 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:55:09 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:55:19 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:55:29 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:55:39 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+14:55:49 ==>  Started Processing... 
+14:55:49 ==>  picked up data file: UAT_Fire_Data.xlsx
+14:55:49 ==>  Picked up Action JSON of Project: FIRE
+14:55:49 ==>  Sheet name: TestData
+14:55:49 ==>  picked up row: 1
+14:55:49 ==>  Assigning Driver: Chrome Driver
+14:55:51 ==> Executing Action: 1 URL: Went to URL
+
+14:55:54 ==> Executing Action: 2 Select: User Type Selected
+
+14:55:55 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:55:57 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:55:58 ==> Executing Action: 5 Text: User Id entered
+
+14:55:59 ==> Executing Action: 6 Text: Password Entered
+
+14:56:01 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:56:03 ==> Executing Action: 8 Forceclick: Close button clicked
+
+14:56:05 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+14:56:07 ==> Executing Action: 10 Click: Sector dropdown clicked
+
+14:56:09 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:56:10 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:56:12 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:56:13 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:56:15 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:56:16 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:56:18 ==> Executing Action: 17 Wait: Wait
+
+14:56:22 ==> Executing Action: 18 Select: Category selected
+
+14:56:24 ==> Executing Action: 19 Wait: Wait
+
+14:56:30 ==> Executing Action: 20 Select: Product Selected
+
+14:56:31 ==> Executing Action: 21 Wait: Wait
+

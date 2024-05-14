@@ -1,0 +1,3262 @@
+11-04-2024 02:26:53DataBase Connection Established successfully
+11-04-2024 02:26:53*** BOT IS ACTIVATED ***
+11-04-2024 02:26:53 Started Processing... 
+11-04-2024 02:26:53 picked up data file: WorkmenData.xlsx
+11-04-2024 02:26:53 Picked up Action JSON of Project: WORKMEN
+11-04-2024 02:26:54 Sheet name: TestData
+11-04-2024 02:26:54 picked up row: 1
+11-04-2024 02:26:54 Assigning Driver: Chrome Driver
+11-04-2024 02:26:56Executing Action: 1 URL: Went to URL
+
+11-04-2024 02:27:03Executing Action: 2 Select: User Type Selected
+
+11-04-2024 02:27:04Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 02:27:06Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 02:27:07Executing Action: 5 Text: User Id entered
+
+11-04-2024 02:27:08Executing Action: 6 Text: Password Entered
+
+11-04-2024 02:27:10Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 02:27:12Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 02:27:14Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 02:27:16Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 02:27:18Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 02:27:19Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 02:27:21Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 02:27:22Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 02:27:24Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 02:27:25Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 02:27:27Executing Action: 17 Wait: 
+
+11-04-2024 02:27:30Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 02:27:31Executing Action: 19 Select: Product Selected
+
+11-04-2024 02:27:33Executing Action: 20 Wait: 
+
+11-04-2024 02:27:35Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 02:27:35Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 02:27:35Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 02:27:37Executing Action: 23 Wait: 
+
+11-04-2024 02:27:53Executing Action: 24 click: new button clicked
+
+11-04-2024 02:27:55Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 02:28:02Dropdown does not contains On Role Employees option, Please check your Input Column Value again
+11-04-2024 02:28:05 Error in Action: 
+11-04-2024 02:28:05*************** TEST FAILED ***************
+
+11-04-2024 02:28:16 Started Processing... 
+11-04-2024 02:28:16 picked up data file: WorkmenData.xlsx
+11-04-2024 02:28:16 Picked up Action JSON of Project: WORKMEN
+11-04-2024 02:28:16 Sheet name: TestData
+11-04-2024 02:28:16 picked up row: 1
+11-04-2024 02:28:16 Assigning Driver: Chrome Driver
+11-04-2024 02:28:17Executing Action: 1 URL: Went to URL
+
+11-04-2024 02:28:22Executing Action: 2 Select: User Type Selected
+
+11-04-2024 02:28:23Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 02:28:26Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 02:28:27Executing Action: 5 Text: User Id entered
+
+11-04-2024 02:28:28Executing Action: 6 Text: Password Entered
+
+11-04-2024 02:28:29Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 02:28:31Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 02:28:33Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 02:28:35Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 02:28:37Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 02:28:38Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 02:28:40Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 02:28:41Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 02:28:43Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 02:28:45Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 02:28:47Executing Action: 17 Wait: 
+
+11-04-2024 02:28:50Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 02:28:51Executing Action: 19 Select: Product Selected
+
+11-04-2024 02:28:52Executing Action: 20 Wait: 
+
+11-04-2024 02:28:54Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 02:28:54Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 02:28:54Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 02:28:56Executing Action: 23 Wait: 
+
+11-04-2024 02:29:13Executing Action: 24 click: new button clicked
+
+11-04-2024 02:29:15Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 02:29:16Dropdown does not contains Crane Drivers option, Please check your Input Column Value again
+11-04-2024 02:29:19 Error in Action: 
+11-04-2024 02:29:19*************** TEST FAILED ***************
+
+11-04-2024 02:29:29DataBase Connection Established successfully
+11-04-2024 02:29:29*** BOT IS ACTIVATED ***
+11-04-2024 02:29:29 Started Processing... 
+11-04-2024 02:29:29 picked up data file: WorkmenData.xlsx
+11-04-2024 02:29:29 Picked up Action JSON of Project: WORKMEN
+11-04-2024 02:29:30 Sheet name: TestData
+11-04-2024 02:29:30 picked up row: 1
+11-04-2024 02:29:30 Assigning Driver: Chrome Driver
+11-04-2024 02:29:31Executing Action: 1 URL: Went to URL
+
+11-04-2024 02:29:52Executing Action: 2 Select: User Type Selected
+
+11-04-2024 02:29:53Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 02:29:55Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 02:29:56Executing Action: 5 Text: User Id entered
+
+11-04-2024 02:29:57Executing Action: 6 Text: Password Entered
+
+11-04-2024 02:29:58Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 02:30:00Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 02:30:02Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 02:30:04Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 02:30:06Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 02:30:07Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 02:30:09Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 02:30:11Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 02:30:13Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 02:30:14Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 02:30:16Executing Action: 17 Wait: 
+
+11-04-2024 02:30:19Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 02:30:20Executing Action: 19 Select: Product Selected
+
+11-04-2024 02:30:22Executing Action: 20 Wait: 
+
+11-04-2024 02:30:24Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 02:30:24Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 02:30:24Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 02:30:26Executing Action: 23 Wait: 
+
+11-04-2024 02:30:42Executing Action: 24 click: new button clicked
+
+11-04-2024 02:30:44Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 02:30:48Executing Action: 26 click: new button clicked
+
+11-04-2024 02:30:51Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 02:30:55Executing Action: 28 click: new button clicked
+
+11-04-2024 02:30:57Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 02:31:02Executing Action: 30 click: new button clicked
+
+11-04-2024 02:31:04Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 02:31:09Executing Action: 32 click: new button clicked
+
+11-04-2024 02:31:11Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 02:31:15Executing Action: 34 click: new button clicked
+
+11-04-2024 02:31:15Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 02:31:15Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 02:31:15Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 02:31:15Executing Action: 36 click: new button clicked
+
+11-04-2024 02:31:15Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 02:31:15Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 02:31:15Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 02:31:15Executing Action: 38 click: new button clicked
+
+11-04-2024 02:31:15Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 02:31:15Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 02:31:15Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 02:31:15Executing Action: 40 click: new button clicked
+
+11-04-2024 02:31:15Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 02:31:16Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 02:31:16Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 02:31:16Executing Action: 42 click: new button clicked
+
+11-04-2024 02:31:16Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 02:31:16Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 02:31:16Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 02:31:16Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 02:31:18Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 02:31:21Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 02:31:23Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 02:31:24Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 02:31:25Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 02:31:27Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 02:31:27Dropdown does not contain ₹ 1,50,000 option, please check your input column value again
+11-04-2024 02:31:30 Error in Action: 
+11-04-2024 02:31:30*************** TEST FAILED ***************
+
+11-04-2024 02:31:41 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:31:51 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:32:01 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:32:11 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:32:21 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:32:31 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:32:41 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:32:51 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:33:01 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:33:11 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:33:21 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:33:31 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:33:41 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:33:51 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:34:01 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:34:11 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:34:21 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:34:31DataBase Connection Established successfully
+11-04-2024 02:34:31*** BOT IS ACTIVATED ***
+11-04-2024 02:34:31 Started Processing... 
+11-04-2024 02:34:31 picked up data file: WorkmenData.xlsx
+11-04-2024 02:34:31 Picked up Action JSON of Project: WORKMEN
+11-04-2024 02:34:32 Sheet name: TestData
+11-04-2024 02:34:32 picked up row: 1
+11-04-2024 02:34:32 Assigning Driver: Chrome Driver
+11-04-2024 02:34:33Executing Action: 1 URL: Went to URL
+
+11-04-2024 02:34:39Executing Action: 2 Select: User Type Selected
+
+11-04-2024 02:34:40Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 02:34:42Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 02:34:43Executing Action: 5 Text: User Id entered
+
+11-04-2024 02:34:44Executing Action: 6 Text: Password Entered
+
+11-04-2024 02:34:45Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 02:34:47Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 02:34:49Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 02:34:52Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 02:34:54Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 02:34:55Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 02:34:57Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 02:34:58Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 02:35:00Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 02:35:01Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 02:35:03Executing Action: 17 Wait: 
+
+11-04-2024 02:35:06Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 02:35:07Executing Action: 19 Select: Product Selected
+
+11-04-2024 02:35:09Executing Action: 20 Wait: 
+
+11-04-2024 02:35:11Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 02:35:11Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 02:35:11Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 02:35:13Executing Action: 23 Wait: 
+
+11-04-2024 02:35:29Executing Action: 24 click: new button clicked
+
+11-04-2024 02:35:31Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 02:35:36Executing Action: 26 click: new button clicked
+
+11-04-2024 02:35:38Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 02:35:43Executing Action: 28 click: new button clicked
+
+11-04-2024 02:35:45Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 02:35:50Executing Action: 30 click: new button clicked
+
+11-04-2024 02:35:52Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 02:35:56Executing Action: 32 click: new button clicked
+
+11-04-2024 02:35:58Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 02:36:03Executing Action: 34 click: new button clicked
+
+11-04-2024 02:36:03Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 02:36:03Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 02:36:03Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 02:36:03Executing Action: 36 click: new button clicked
+
+11-04-2024 02:36:03Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 02:36:03Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 02:36:03Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 02:36:03Executing Action: 38 click: new button clicked
+
+11-04-2024 02:36:03Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 02:36:03Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 02:36:03Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 02:36:03Executing Action: 40 click: new button clicked
+
+11-04-2024 02:36:03Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 02:36:03Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 02:36:03Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 02:36:03Executing Action: 42 click: new button clicked
+
+11-04-2024 02:36:03Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 02:36:03Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 02:36:03Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 02:36:03Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 02:36:05Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 02:36:08Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 02:36:10Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 02:36:11Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 02:36:12Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 02:36:14Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 02:36:16*************** TEST PASSED ***************
+
+11-04-2024 02:36:26 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:36:36 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:36:46 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:37:07DataBase Connection Established successfully
+11-04-2024 02:37:07*** BOT IS ACTIVATED ***
+11-04-2024 02:37:07 Started Processing... 
+11-04-2024 02:37:07 picked up data file: WorkmenData.xlsx
+11-04-2024 02:37:07 Picked up Action JSON of Project: WORKMEN
+11-04-2024 02:37:08 Sheet name: TestData
+11-04-2024 02:37:08 picked up row: 1
+11-04-2024 02:37:08 Assigning Driver: Chrome Driver
+11-04-2024 02:37:10Executing Action: 1 URL: Went to URL
+
+11-04-2024 02:37:15Executing Action: 2 Select: User Type Selected
+
+11-04-2024 02:37:16Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 02:37:18Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 02:37:19Executing Action: 5 Text: User Id entered
+
+11-04-2024 02:37:20Executing Action: 6 Text: Password Entered
+
+11-04-2024 02:37:22Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 02:37:24Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 02:37:26Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 02:37:28Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 02:37:30Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 02:37:31Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 02:37:33Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 02:37:34Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 02:37:36Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 02:37:37Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 02:37:39Executing Action: 17 Wait: 
+
+11-04-2024 02:37:42Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 02:37:44Executing Action: 19 Select: Product Selected
+
+11-04-2024 02:37:45Executing Action: 20 Wait: 
+
+11-04-2024 02:37:47Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 02:37:47Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 02:37:47Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 02:37:49Executing Action: 23 Wait: 
+
+11-04-2024 02:38:05Executing Action: 24 click: new button clicked
+
+11-04-2024 02:38:07Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 02:38:12Executing Action: 26 click: new button clicked
+
+11-04-2024 02:38:14Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 02:38:19Executing Action: 28 click: new button clicked
+
+11-04-2024 02:38:21Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 02:38:26Executing Action: 30 click: new button clicked
+
+11-04-2024 02:38:28Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 02:38:32Executing Action: 32 click: new button clicked
+
+11-04-2024 02:38:35Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 02:38:39Executing Action: 34 click: new button clicked
+
+11-04-2024 02:38:39Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 02:38:39Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 02:38:39Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 02:38:39Executing Action: 36 click: new button clicked
+
+11-04-2024 02:38:39Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 02:38:39Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 02:38:39Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 02:38:39Executing Action: 38 click: new button clicked
+
+11-04-2024 02:38:39Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 02:38:39Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 02:38:39Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 02:38:39Executing Action: 40 click: new button clicked
+
+11-04-2024 02:38:39Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 02:38:39Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 02:38:39Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 02:38:39Executing Action: 42 click: new button clicked
+
+11-04-2024 02:38:39Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 02:38:39Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 02:38:39Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 02:38:39Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 02:38:41Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 02:38:44Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 02:38:46Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 02:38:47Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 02:38:48Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 02:38:51Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 02:38:52*************** TEST PASSED ***************
+
+11-04-2024 02:39:02 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:39:12 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:39:22 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:39:32 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:39:42 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:39:52 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:40:02 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:40:12 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:40:22 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:40:32 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:40:42 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:40:52 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:41:02 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:41:12 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:41:22 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:41:32 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:41:42 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:41:52 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:42:02 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:42:12 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:42:22 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:42:32 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:42:42 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:42:52 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:43:02 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:43:12 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:43:22 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:43:32 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:43:42 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:43:52 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:44:02 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 02:44:12 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:06:55DataBase Connection Established successfully
+11-04-2024 04:06:55*** BOT IS ACTIVATED ***
+11-04-2024 04:06:56 Started Processing... 
+11-04-2024 04:06:56 picked up data file: WorkmenData.xlsx
+11-04-2024 04:06:56 Picked up Action JSON of Project: WORKMEN
+11-04-2024 04:06:57 Sheet name: TestData
+11-04-2024 04:06:57 picked up row: 1
+11-04-2024 04:06:57 Assigning Driver: Chrome Driver
+11-04-2024 04:06:59Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:07:04Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:07:05Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:07:07Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 04:07:08Executing Action: 5 Text: User Id entered
+
+11-04-2024 04:07:10Executing Action: 6 Text: Password Entered
+
+11-04-2024 04:07:11Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 04:07:13Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 04:07:15Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 04:07:17Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 04:07:19Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 04:07:20Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 04:07:22Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 04:07:23Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 04:07:25Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 04:07:26Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 04:07:28Executing Action: 17 Wait: 
+
+11-04-2024 04:07:31Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 04:07:33Executing Action: 19 Select: Product Selected
+
+11-04-2024 04:07:34Executing Action: 20 Wait: 
+
+11-04-2024 04:07:36Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 04:07:36Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 04:07:36Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 04:07:38Executing Action: 23 Wait: 
+
+11-04-2024 04:07:54Executing Action: 24 click: new button clicked
+
+11-04-2024 04:07:56Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 04:08:01Executing Action: 26 click: new button clicked
+
+11-04-2024 04:08:03Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 04:08:08Executing Action: 28 click: new button clicked
+
+11-04-2024 04:08:10Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 04:08:15Executing Action: 30 click: new button clicked
+
+11-04-2024 04:08:17Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 04:08:21Executing Action: 32 click: new button clicked
+
+11-04-2024 04:08:23Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 04:08:28Executing Action: 34 click: new button clicked
+
+11-04-2024 04:08:28Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:08:28Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 04:08:28Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:08:28Executing Action: 36 click: new button clicked
+
+11-04-2024 04:08:28Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:08:28Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 04:08:28Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:08:28Executing Action: 38 click: new button clicked
+
+11-04-2024 04:08:28Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:08:28Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 04:08:28Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:08:28Executing Action: 40 click: new button clicked
+
+11-04-2024 04:08:28Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:08:28Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 04:08:28Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:08:28Executing Action: 42 click: new button clicked
+
+11-04-2024 04:08:28Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:08:28Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 04:08:28Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:08:28Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 04:08:30Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 04:08:33Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 04:08:35Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 04:08:36Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 04:08:37Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 04:08:39Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 04:08:41Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 04:08:42Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 04:08:42Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 04:08:42Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 04:08:42Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 04:08:42Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 04:08:42Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 04:08:42Executing Action: 55 Date: End Date Entered
+
+11-04-2024 04:08:42Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 04:08:42Executing Action: 56 Click: Generate Quote slip button clicked
+
+11-04-2024 04:08:44Executing Action: 57 Read: Quote ID read
+
+11-04-2024 04:08:45Executing Action: 58 Read: Premium Read
+
+11-04-2024 04:08:46Executing Action: 59 Click: Send to Insurer
+
+11-04-2024 04:09:01OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='RequisitionReview_SendToInsurer']"}
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 288
+11-04-2024 04:09:04 Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='RequisitionReview_SendToInsurer']"}
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 288
+11-04-2024 04:09:04*************** TEST FAILED ***************
+
+11-04-2024 04:09:05 picked up row: 2
+11-04-2024 04:09:05 Assigning Driver: Chrome Driver
+11-04-2024 04:09:06Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:09:11Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:09:12Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:09:15Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 04:09:16Executing Action: 5 Text: User Id entered
+
+11-04-2024 04:09:17Executing Action: 6 Text: Password Entered
+
+11-04-2024 04:09:18Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 04:09:20Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 04:09:22Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 04:09:24Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 04:09:26Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 04:09:27Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 04:09:29Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 04:09:30Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 04:09:33Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 04:09:34Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 04:09:36Executing Action: 17 Wait: 
+
+11-04-2024 04:09:39Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 04:09:40Executing Action: 19 Select: Product Selected
+
+11-04-2024 04:09:41Executing Action: 20 Wait: 
+
+11-04-2024 04:09:43Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 04:09:43Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 04:09:43Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 04:09:46Executing Action: 23 Wait: 
+
+11-04-2024 04:10:02Executing Action: 24 click: new button clicked
+
+11-04-2024 04:10:04Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 04:10:05Executing Action: 26 click: new button clicked
+
+11-04-2024 04:10:07Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 04:10:08Executing Action: 28 click: new button clicked
+
+11-04-2024 04:10:10Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 04:10:11Executing Action: 30 click: new button clicked
+
+11-04-2024 04:10:13Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 04:10:14Executing Action: 32 click: new button clicked
+
+11-04-2024 04:10:16Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 04:10:17Executing Action: 34 click: new button clicked
+
+11-04-2024 04:10:17Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:10:17Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 04:10:17Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:10:17Executing Action: 36 click: new button clicked
+
+11-04-2024 04:10:17Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:10:17Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 04:10:17Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:10:17Executing Action: 38 click: new button clicked
+
+11-04-2024 04:10:17Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:10:17Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 04:10:17Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:10:17Executing Action: 40 click: new button clicked
+
+11-04-2024 04:10:17Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:10:17Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 04:10:17Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:10:17Executing Action: 42 click: new button clicked
+
+11-04-2024 04:10:17Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:10:17Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 04:10:17Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:10:17Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 04:10:19Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 04:10:22Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 04:10:24Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 04:10:25Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 04:10:26Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 04:10:26Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 04:10:26Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 04:10:26Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 04:10:26Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 04:10:27Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 04:10:27Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 04:10:27Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 04:10:27Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 04:10:27Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 04:10:27Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 04:10:27Executing Action: 55 Date: End Date Entered
+
+11-04-2024 04:10:27Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 04:10:27Executing Action: 56 Click: Generate Quote slip button clicked
+
+11-04-2024 04:10:29Executing Action: 57 Read: Quote ID read
+
+11-04-2024 04:10:30Executing Action: 58 Read: Premium Read
+
+11-04-2024 04:10:31Executing Action: 59 Click: Send to Insurer
+
+11-04-2024 04:10:33*************** TEST PASSED ***************
+
+11-04-2024 04:10:33 picked up row: 3
+11-04-2024 04:10:33 Assigning Driver: Chrome Driver
+11-04-2024 04:10:35Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:10:40Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:10:41Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:10:43Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 04:10:44Executing Action: 5 Text: User Id entered
+
+11-04-2024 04:10:46Executing Action: 6 Text: Password Entered
+
+11-04-2024 04:10:47Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 04:10:49Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 04:10:51Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 04:10:53Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 04:10:55Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 04:10:56Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 04:10:58Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 04:10:59Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 04:11:01Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 04:11:03Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 04:11:05Executing Action: 17 Wait: 
+
+11-04-2024 04:11:08Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 04:11:09Executing Action: 19 Select: Product Selected
+
+11-04-2024 04:11:10Executing Action: 20 Wait: 
+
+11-04-2024 04:11:13Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 04:11:13Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 04:11:13Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 04:11:15Executing Action: 23 Wait: 
+
+11-04-2024 04:11:31Executing Action: 24 click: new button clicked
+
+11-04-2024 04:11:33Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 04:11:34Executing Action: 26 click: new button clicked
+
+11-04-2024 04:11:36Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 04:11:37Executing Action: 28 click: new button clicked
+
+11-04-2024 04:11:39Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 04:11:40Executing Action: 30 click: new button clicked
+
+11-04-2024 04:11:42Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 04:11:43Executing Action: 32 click: new button clicked
+
+11-04-2024 04:11:45Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 04:11:46Executing Action: 34 click: new button clicked
+
+11-04-2024 04:11:46Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:11:46Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 04:11:46Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:11:46Executing Action: 36 click: new button clicked
+
+11-04-2024 04:11:46Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:11:46Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 04:11:46Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:11:46Executing Action: 38 click: new button clicked
+
+11-04-2024 04:11:46Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:11:46Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 04:11:46Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:11:46Executing Action: 40 click: new button clicked
+
+11-04-2024 04:11:46Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:11:46Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 04:11:46Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:11:46Executing Action: 42 click: new button clicked
+
+11-04-2024 04:11:46Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:11:46Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 04:11:46Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:11:46Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 04:11:48Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 04:11:51Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 04:11:53Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 04:11:54Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 04:11:55Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 04:11:55Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 04:11:55Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 04:11:55Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 04:11:55Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 04:11:56Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 04:11:57Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 04:11:58Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 04:11:58Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 04:11:58Executing Action: 55 Date: End Date Entered
+
+11-04-2024 04:11:58Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 04:11:58Executing Action: 56 Click: Generate Quote slip button clicked
+
+11-04-2024 04:12:00Executing Action: 57 Read: Quote ID read
+
+11-04-2024 04:12:01Executing Action: 58 Read: Premium Read
+
+11-04-2024 04:12:02Executing Action: 59 Click: Send to Insurer
+
+11-04-2024 04:12:05*************** TEST PASSED ***************
+
+11-04-2024 04:12:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:12:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:12:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:12:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:12:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:13:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:13:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:13:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:13:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:13:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:13:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:14:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:14:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:14:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:14:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:14:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:14:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:15:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:15:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:15:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:15:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:15:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:15:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:16:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:16:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:16:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:16:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:16:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:16:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:17:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:17:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:17:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:17:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:17:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:17:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:18:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:18:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:18:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:18:35 Started Processing... 
+11-04-2024 04:18:35 picked up data file: WorkmenData.xlsx
+11-04-2024 04:18:35 Picked up Action JSON of Project: WORKMEN
+11-04-2024 04:18:35 Sheet name: TestData
+11-04-2024 04:18:35 picked up row: 1
+11-04-2024 04:18:35 Assigning Driver: Chrome Driver
+11-04-2024 04:18:36Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:18:42Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:18:43Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:18:43OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 288
+11-04-2024 04:18:44 Error in Action: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 288
+11-04-2024 04:18:44*************** TEST FAILED ***************
+
+11-04-2024 04:18:44 picked up row: 2
+11-04-2024 04:18:44 Assigning Driver: Chrome Driver
+11-04-2024 04:18:45Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:18:46OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Window.get_Position()
+   at TestAutomationSuite.Utility.ActionHelper.ActionURL(IWebDriver driver, String browser, String driverPath, String url, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 86
+11-04-2024 04:18:47 Error in Action: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Window.get_Position()
+   at TestAutomationSuite.Utility.ActionHelper.ActionURL(IWebDriver driver, String browser, String driverPath, String url, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 86
+11-04-2024 04:18:47*************** TEST FAILED ***************
+
+11-04-2024 04:18:47 picked up row: 3
+11-04-2024 04:18:47 Assigning Driver: Chrome Driver
+11-04-2024 04:18:48Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:18:59DataBase Connection Established successfully
+11-04-2024 04:18:59*** BOT IS ACTIVATED ***
+11-04-2024 04:19:00 Started Processing... 
+11-04-2024 04:19:00 picked up data file: WorkmenData.xlsx
+11-04-2024 04:19:00 Picked up Action JSON of Project: WORKMEN
+11-04-2024 04:19:01 Sheet name: TestData
+11-04-2024 04:19:01 picked up row: 1
+11-04-2024 04:19:01 Assigning Driver: Chrome Driver
+11-04-2024 04:19:02Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:19:08Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:19:09Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:19:11Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 04:19:12Executing Action: 5 Text: User Id entered
+
+11-04-2024 04:19:13Executing Action: 6 Text: Password Entered
+
+11-04-2024 04:19:14Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 04:19:16Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 04:19:19Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 04:19:21Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 04:19:23Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 04:19:24Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 04:19:26Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 04:19:27Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 04:19:29Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 04:19:30Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 04:19:32Executing Action: 17 Wait: 
+
+11-04-2024 04:19:36Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 04:19:37Executing Action: 19 Select: Product Selected
+
+11-04-2024 04:19:38Executing Action: 20 Wait: 
+
+11-04-2024 04:19:40Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 04:19:40Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 04:19:40Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 04:19:42Executing Action: 23 Wait: 
+
+11-04-2024 04:19:58Executing Action: 24 click: new button clicked
+
+11-04-2024 04:20:01Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 04:20:05Executing Action: 26 click: new button clicked
+
+11-04-2024 04:20:08Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 04:20:12Executing Action: 28 click: new button clicked
+
+11-04-2024 04:20:15Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 04:20:19Executing Action: 30 click: new button clicked
+
+11-04-2024 04:20:22Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 04:20:26Executing Action: 32 click: new button clicked
+
+11-04-2024 04:20:28Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 04:20:33Executing Action: 34 click: new button clicked
+
+11-04-2024 04:20:33Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:20:33Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 04:20:33Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:20:33Executing Action: 36 click: new button clicked
+
+11-04-2024 04:20:33Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:20:33Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 04:20:33Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:20:33Executing Action: 38 click: new button clicked
+
+11-04-2024 04:20:33Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:20:33Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 04:20:33Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:20:33Executing Action: 40 click: new button clicked
+
+11-04-2024 04:20:33Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:20:33Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 04:20:33Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:20:33Executing Action: 42 click: new button clicked
+
+11-04-2024 04:20:33Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:20:33Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 04:20:33Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:20:33Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 04:20:35Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 04:20:38Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 04:20:40Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 04:20:42Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 04:20:43Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 04:20:45Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 04:20:46Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 04:20:47Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 04:20:47Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 04:20:47Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 04:20:47Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 04:20:47Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 04:20:47Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 04:20:47Executing Action: 55 Date: End Date Entered
+
+11-04-2024 04:20:47Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 04:20:47System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 525
+11-04-2024 04:20:47 picked up row: 2
+11-04-2024 04:20:47Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:20:49Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:20:50Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:20:52Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 04:20:53Executing Action: 5 Text: User Id entered
+
+11-04-2024 04:20:54Executing Action: 6 Text: Password Entered
+
+11-04-2024 04:20:55Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 04:20:57Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 04:20:59Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 04:21:01Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 04:21:04Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 04:21:05Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 04:21:07Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 04:21:08Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 04:21:10Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 04:21:11Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 04:21:13Executing Action: 17 Wait: 
+
+11-04-2024 04:21:16Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 04:21:18Executing Action: 19 Select: Product Selected
+
+11-04-2024 04:21:19Executing Action: 20 Wait: 
+
+11-04-2024 04:21:21Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 04:21:21Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 04:21:21Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 04:21:23Executing Action: 23 Wait: 
+
+11-04-2024 04:21:39Executing Action: 24 click: new button clicked
+
+11-04-2024 04:21:41Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 04:21:43Executing Action: 26 click: new button clicked
+
+11-04-2024 04:21:45Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 04:21:46Executing Action: 28 click: new button clicked
+
+11-04-2024 04:21:48Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 04:21:49Executing Action: 30 click: new button clicked
+
+11-04-2024 04:21:51Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 04:21:52Executing Action: 32 click: new button clicked
+
+11-04-2024 04:21:54Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 04:21:55Executing Action: 34 click: new button clicked
+
+11-04-2024 04:21:55Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:21:55Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 04:21:55Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:21:55Executing Action: 36 click: new button clicked
+
+11-04-2024 04:21:55Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:21:55Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 04:21:55Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:21:55Executing Action: 38 click: new button clicked
+
+11-04-2024 04:21:55Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:21:55Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 04:21:55Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:21:55Executing Action: 40 click: new button clicked
+
+11-04-2024 04:21:55Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:21:55Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 04:21:55Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:21:55Executing Action: 42 click: new button clicked
+
+11-04-2024 04:21:55Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:21:55Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 04:21:55Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:21:55Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 04:21:57Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 04:21:59Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 04:22:02Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 04:22:03Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 04:22:04Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 04:22:04Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 04:22:04Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 04:22:04Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 04:22:04Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 04:22:05Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 04:22:05Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 04:22:05Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 04:22:05Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 04:22:05Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 04:22:05Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 04:22:05Executing Action: 55 Date: End Date Entered
+
+11-04-2024 04:22:05Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 04:22:05System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 525
+11-04-2024 04:22:05 picked up row: 3
+11-04-2024 04:22:05Executing Action: 1 URL: Went to URL
+
+11-04-2024 04:22:07Executing Action: 2 Select: User Type Selected
+
+11-04-2024 04:22:08Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 04:22:10Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 04:22:11Executing Action: 5 Text: User Id entered
+
+11-04-2024 04:22:12Executing Action: 6 Text: Password Entered
+
+11-04-2024 04:22:13Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 04:22:15Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 04:22:17Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 04:22:19Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 04:22:21Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 04:22:22Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 04:22:25Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 04:22:26Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 04:22:28Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 04:22:29Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 04:22:31Executing Action: 17 Wait: 
+
+11-04-2024 04:22:34Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 04:22:35Executing Action: 19 Select: Product Selected
+
+11-04-2024 04:22:37Executing Action: 20 Wait: 
+
+11-04-2024 04:22:39Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 04:22:39Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 04:22:39Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 04:22:41Executing Action: 23 Wait: 
+
+11-04-2024 04:22:57Executing Action: 24 click: new button clicked
+
+11-04-2024 04:22:59Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 04:23:00Executing Action: 26 click: new button clicked
+
+11-04-2024 04:23:02Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 04:23:03Executing Action: 28 click: new button clicked
+
+11-04-2024 04:23:05Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 04:23:07Executing Action: 30 click: new button clicked
+
+11-04-2024 04:23:09Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 04:23:10Executing Action: 32 click: new button clicked
+
+11-04-2024 04:23:12Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 04:23:13Executing Action: 34 click: new button clicked
+
+11-04-2024 04:23:13Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:23:13Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 04:23:13Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 04:23:13Executing Action: 36 click: new button clicked
+
+11-04-2024 04:23:13Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:23:13Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 04:23:13Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 04:23:13Executing Action: 38 click: new button clicked
+
+11-04-2024 04:23:13Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:23:13Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 04:23:13Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 04:23:13Executing Action: 40 click: new button clicked
+
+11-04-2024 04:23:13Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:23:13Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 04:23:13Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 04:23:13Executing Action: 42 click: new button clicked
+
+11-04-2024 04:23:13Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:23:13Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 04:23:13Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 04:23:13Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 04:23:15Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 04:23:17Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 04:23:19Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 04:23:20Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 04:23:21Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 04:23:21Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 04:23:21Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 04:23:21Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 04:23:21Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 04:23:23Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 04:23:24Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 04:23:25Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 04:23:26Executing Action: 55 Date: End Date Entered
+
+11-04-2024 04:23:27System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 525
+11-04-2024 04:23:37 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 04:23:47 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:21:05DataBase Connection Established successfully
+11-04-2024 05:21:05*** BOT IS ACTIVATED ***
+11-04-2024 05:21:05 Started Processing... 
+11-04-2024 05:21:05 picked up data file: WorkmenData.xlsx
+11-04-2024 05:21:05 Picked up Action JSON of Project: WORKMEN
+11-04-2024 05:21:07 Sheet name: TestData
+11-04-2024 05:21:07 picked up row: 1
+11-04-2024 05:21:07 Assigning Driver: Chrome Driver
+11-04-2024 05:21:09Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:21:15Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:21:16Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:21:18Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:21:19Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:21:20Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:21:22Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:21:24Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:21:26Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:21:28Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:21:30Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:21:31Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:21:33Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:21:34Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:21:37Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:21:38Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:21:40Executing Action: 17 Wait: 
+
+11-04-2024 05:21:43Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:21:44Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:21:45Executing Action: 20 Wait: 
+
+11-04-2024 05:21:47Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:21:47Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:21:47Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:21:49Executing Action: 23 Wait: 
+
+11-04-2024 05:22:05Executing Action: 24 click: new button clicked
+
+11-04-2024 05:22:07Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:22:12Executing Action: 26 click: new button clicked
+
+11-04-2024 05:22:14Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:22:19Executing Action: 28 click: new button clicked
+
+11-04-2024 05:22:21Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:22:26Dropdown does not contains 130 option, Please check your Input Column Value again
+11-04-2024 05:22:26System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TestAutomationSuite.Utility.ActionHelper.ActionEmployeeDetailsTable(IWebDriver driver, String records, String elementValue, Int32 employeeIndex, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 247
+11-04-2024 05:22:30 Error in Action: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TestAutomationSuite.Utility.ActionHelper.ActionEmployeeDetailsTable(IWebDriver driver, String records, String elementValue, Int32 employeeIndex, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 247
+11-04-2024 05:22:30*************** TEST FAILED ***************
+
+11-04-2024 05:22:30 picked up row: 2
+11-04-2024 05:22:30 Assigning Driver: Chrome Driver
+11-04-2024 05:22:31Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:22:36Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:22:38Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:22:40Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:22:41Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:22:42Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:22:43Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:22:45Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:22:47Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:22:49Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:22:51Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:22:52Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:22:55Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:22:56Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:22:58Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:22:59Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:23:01Executing Action: 17 Wait: 
+
+11-04-2024 05:23:04Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:23:05Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:23:07Executing Action: 20 Wait: 
+
+11-04-2024 05:23:09Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:23:09Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:23:09Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:23:11Executing Action: 23 Wait: 
+
+11-04-2024 05:23:27Executing Action: 24 click: new button clicked
+
+11-04-2024 05:23:29Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:23:34Executing Action: 26 click: new button clicked
+
+11-04-2024 05:23:36Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:23:41Executing Action: 28 click: new button clicked
+
+11-04-2024 05:23:43Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:23:48Dropdown does not contains 130 option, Please check your Input Column Value again
+11-04-2024 05:23:48System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TestAutomationSuite.Utility.ActionHelper.ActionEmployeeDetailsTable(IWebDriver driver, String records, String elementValue, Int32 employeeIndex, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 247
+11-04-2024 05:23:51 Error in Action: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TestAutomationSuite.Utility.ActionHelper.ActionEmployeeDetailsTable(IWebDriver driver, String records, String elementValue, Int32 employeeIndex, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 247
+11-04-2024 05:23:51*************** TEST FAILED ***************
+
+11-04-2024 05:23:52 picked up row: 3
+11-04-2024 05:23:52 Assigning Driver: Chrome Driver
+11-04-2024 05:23:53Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:23:58Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:24:00Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:24:02Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:24:03Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:24:04Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:24:05Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:24:07Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:24:09Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:24:11Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:24:14Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:24:15Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:24:17Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:24:18Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:24:20Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:24:21Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:24:23Executing Action: 17 Wait: 
+
+11-04-2024 05:24:26Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:24:27Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:24:29Executing Action: 20 Wait: 
+
+11-04-2024 05:24:31Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:24:31Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:24:31Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:24:33Executing Action: 23 Wait: 
+
+11-04-2024 05:24:49Executing Action: 24 click: new button clicked
+
+11-04-2024 05:24:51Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:24:56Executing Action: 26 click: new button clicked
+
+11-04-2024 05:24:58Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:25:03Executing Action: 28 click: new button clicked
+
+11-04-2024 05:25:05Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:25:10Dropdown does not contains 130 option, Please check your Input Column Value again
+11-04-2024 05:25:10System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TestAutomationSuite.Utility.ActionHelper.ActionEmployeeDetailsTable(IWebDriver driver, String records, String elementValue, Int32 employeeIndex, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 247
+11-04-2024 05:25:13 Error in Action: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TestAutomationSuite.Utility.ActionHelper.ActionEmployeeDetailsTable(IWebDriver driver, String records, String elementValue, Int32 employeeIndex, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 247
+11-04-2024 05:25:13*************** TEST FAILED ***************
+
+11-04-2024 05:25:24 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:25:34 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:25:44 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:25:54 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:26:04 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:26:14 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:26:24 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:26:34 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:26:44 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:26:54 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:27:04 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:27:14 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:27:24 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:27:34 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:27:44 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:27:54 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:28:04 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:28:14 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:28:24 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:28:34 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:28:44 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:28:54 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:29:04 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:29:27DataBase Connection Established successfully
+11-04-2024 05:29:27*** BOT IS ACTIVATED ***
+11-04-2024 05:29:28 Started Processing... 
+11-04-2024 05:29:28 picked up data file: WorkmenData.xlsx
+11-04-2024 05:29:28 Picked up Action JSON of Project: WORKMEN
+11-04-2024 05:29:29 Sheet name: TestData
+11-04-2024 05:29:29 picked up row: 1
+11-04-2024 05:29:29 Assigning Driver: Chrome Driver
+11-04-2024 05:29:31Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:29:36Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:29:37Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:29:40Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:29:41Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:29:42Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:29:43Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:29:45Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:29:47Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:29:49Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:29:51Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:29:53Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:29:55Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:29:56Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:29:58Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:29:59Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:30:01Executing Action: 17 Wait: 
+
+11-04-2024 05:30:04Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:30:05Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:30:07Executing Action: 20 Wait: 
+
+11-04-2024 05:30:09Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:30:09Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:30:09Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:30:11Executing Action: 23 Wait: 
+
+11-04-2024 05:30:27Executing Action: 24 click: new button clicked
+
+11-04-2024 05:30:29Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:30:34Executing Action: 26 click: new button clicked
+
+11-04-2024 05:30:36Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:30:41Executing Action: 28 click: new button clicked
+
+11-04-2024 05:30:43Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:30:48Executing Action: 30 click: new button clicked
+
+11-04-2024 05:30:50Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 05:30:55Executing Action: 32 click: new button clicked
+
+11-04-2024 05:30:57Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 05:31:02Executing Action: 34 click: new button clicked
+
+11-04-2024 05:31:02Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:31:02Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 05:31:02Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:31:02Executing Action: 36 click: new button clicked
+
+11-04-2024 05:31:02Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:31:02Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 05:31:02Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:31:02Executing Action: 38 click: new button clicked
+
+11-04-2024 05:31:02Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:31:02Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 05:31:02Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:31:02Executing Action: 40 click: new button clicked
+
+11-04-2024 05:31:02Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:31:02Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 05:31:02Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:31:02Executing Action: 42 click: new button clicked
+
+11-04-2024 05:31:02Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:31:02Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 05:31:02Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:31:02Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 05:31:04Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 05:31:07Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 05:31:09Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 05:31:10Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 05:31:11Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 05:31:13Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 05:31:15Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 05:31:16Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 05:31:16Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 05:31:16Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 05:31:16Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 05:31:16Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 05:31:16Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 05:31:16Executing Action: 55 Date: End Date Entered
+
+11-04-2024 05:31:16Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 05:31:16System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 524
+11-04-2024 05:31:16 picked up row: 2
+11-04-2024 05:31:16Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:31:18Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:31:19Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:31:21Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:31:21Dropdown does not contain Broker option, please check your input column value again
+11-04-2024 05:31:24 Error in Action: 
+11-04-2024 05:31:24*************** TEST FAILED ***************
+
+11-04-2024 05:31:25 picked up row: 3
+11-04-2024 05:31:25 Assigning Driver: Chrome Driver
+11-04-2024 05:31:26Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:31:32Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:31:33Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:31:35Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:31:36Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:31:37Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:31:38Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:31:40Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:31:42Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:31:44Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:31:46Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:31:48Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:31:50Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:31:51Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:31:53Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:31:54Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:31:56Executing Action: 17 Wait: 
+
+11-04-2024 05:31:59Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:32:00Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:32:02Executing Action: 20 Wait: 
+
+11-04-2024 05:32:04Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:32:04Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:32:04Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:32:06Executing Action: 23 Wait: 
+
+11-04-2024 05:32:22Executing Action: 24 click: new button clicked
+
+11-04-2024 05:32:24Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:33:03Executing Action: 26 click: new button clicked
+
+11-04-2024 05:33:05Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:33:10Executing Action: 28 click: new button clicked
+
+11-04-2024 05:33:12Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:33:17Executing Action: 30 click: new button clicked
+
+11-04-2024 05:33:19Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 05:33:24Executing Action: 32 click: new button clicked
+
+11-04-2024 05:33:26Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 05:33:31Executing Action: 34 click: new button clicked
+
+11-04-2024 05:33:31Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:33:31Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 05:33:31Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:33:31Executing Action: 36 click: new button clicked
+
+11-04-2024 05:33:31Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:33:31Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 05:33:31Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:33:31Executing Action: 38 click: new button clicked
+
+11-04-2024 05:33:31Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:33:31Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 05:33:31Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:33:31Executing Action: 40 click: new button clicked
+
+11-04-2024 05:33:31Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:33:31Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 05:33:31Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:33:31Executing Action: 42 click: new button clicked
+
+11-04-2024 05:33:31Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:33:31Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 05:33:31Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:33:31Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 05:33:33Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 05:33:36Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 05:33:38Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 05:33:39Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 05:33:40Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 05:33:40Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 05:33:40Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 05:33:40Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 05:33:40Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 05:33:41Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 05:33:42Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 05:33:44Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 05:33:45Executing Action: 55 Date: End Date Entered
+
+11-04-2024 05:33:46System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 524
+11-04-2024 05:33:56 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:34:06 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:34:16 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:34:26 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:34:36 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:34:46 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:34:56 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:35:06 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:35:16 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:35:26 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:35:36 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 05:35:46 Started Processing... 
+11-04-2024 05:35:46 picked up data file: WorkmenData.xlsx
+11-04-2024 05:35:46 Picked up Action JSON of Project: WORKMEN
+11-04-2024 05:35:46 Sheet name: TestData
+11-04-2024 05:35:46 picked up row: 1
+11-04-2024 05:35:46Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:35:48Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:35:49Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:35:51Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:35:52Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:35:53Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:35:54Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:35:56Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:35:58Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:36:00Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:36:02Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:36:04Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:36:06Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:36:07Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:36:09Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:36:10Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:36:12Executing Action: 17 Wait: 
+
+11-04-2024 05:36:15Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:36:16Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:36:18Executing Action: 20 Wait: 
+
+11-04-2024 05:36:20Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:36:20Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:36:20Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:36:22Executing Action: 23 Wait: 
+
+11-04-2024 05:36:38Executing Action: 24 click: new button clicked
+
+11-04-2024 05:36:40Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:36:41Executing Action: 26 click: new button clicked
+
+11-04-2024 05:36:43Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:36:44Executing Action: 28 click: new button clicked
+
+11-04-2024 05:36:47Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:36:48Executing Action: 30 click: new button clicked
+
+11-04-2024 05:36:50Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 05:36:51Executing Action: 32 click: new button clicked
+
+11-04-2024 05:36:53Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 05:36:54Executing Action: 34 click: new button clicked
+
+11-04-2024 05:36:54Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:36:54Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 05:36:54Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:36:54Executing Action: 36 click: new button clicked
+
+11-04-2024 05:36:54Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:36:54Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 05:36:54Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:36:54Executing Action: 38 click: new button clicked
+
+11-04-2024 05:36:54Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:36:54Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 05:36:54Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:36:54Executing Action: 40 click: new button clicked
+
+11-04-2024 05:36:54Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:36:54Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 05:36:54Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:36:54Executing Action: 42 click: new button clicked
+
+11-04-2024 05:36:54Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:36:54Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 05:36:54Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:36:54Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 05:36:56Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 05:36:58Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 05:36:59OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+11-04-2024 05:37:00 Error in Action: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+11-04-2024 05:37:00*************** TEST FAILED ***************
+
+11-04-2024 05:37:00 picked up row: 2
+11-04-2024 05:37:00 Assigning Driver: Chrome Driver
+11-04-2024 05:37:27DataBase Connection Established successfully
+11-04-2024 05:37:27*** BOT IS ACTIVATED ***
+11-04-2024 05:37:27 Started Processing... 
+11-04-2024 05:37:27 picked up data file: WorkmenData.xlsx
+11-04-2024 05:37:27 Picked up Action JSON of Project: WORKMEN
+11-04-2024 05:37:28 Sheet name: TestData
+11-04-2024 05:37:28 picked up row: 1
+11-04-2024 05:37:28 Assigning Driver: Chrome Driver
+11-04-2024 05:37:30Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:37:36Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:37:37Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:37:39Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:37:40Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:37:41Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:37:42Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:37:45Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:37:46Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:37:49Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:37:51Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:37:52Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:37:54Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:37:55Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:37:57Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:37:58Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:38:00Executing Action: 17 Wait: 
+
+11-04-2024 05:38:03Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:38:05Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:38:06Executing Action: 20 Wait: 
+
+11-04-2024 05:38:08Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:38:08Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:38:08Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:38:10Executing Action: 23 Wait: 
+
+11-04-2024 05:38:26Executing Action: 24 click: new button clicked
+
+11-04-2024 05:38:28Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:41:49Executing Action: 26 click: new button clicked
+
+11-04-2024 05:41:51Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:41:56Executing Action: 28 click: new button clicked
+
+11-04-2024 05:41:58Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:42:03Executing Action: 30 click: new button clicked
+
+11-04-2024 05:42:05Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 05:42:10Executing Action: 32 click: new button clicked
+
+11-04-2024 05:42:12Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 05:42:17Executing Action: 34 click: new button clicked
+
+11-04-2024 05:42:17Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:42:17Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 05:42:17Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:42:17Executing Action: 36 click: new button clicked
+
+11-04-2024 05:42:17Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:42:17Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 05:42:17Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:42:17Executing Action: 38 click: new button clicked
+
+11-04-2024 05:42:17Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:42:17Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 05:42:17Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:42:17Executing Action: 40 click: new button clicked
+
+11-04-2024 05:42:17Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:42:17Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 05:42:17Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:42:17Executing Action: 42 click: new button clicked
+
+11-04-2024 05:42:17Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:42:17Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 05:42:17Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:42:17Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 05:42:19Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 05:42:22Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 05:42:24Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 05:42:25Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 05:42:27Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 05:42:29Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 05:42:30Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 05:42:31Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 05:42:31Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 05:42:31Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 05:42:31Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 05:42:31Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 05:42:31Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 05:42:31Executing Action: 55 Date: End Date Entered
+
+11-04-2024 05:42:31Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 05:42:32System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 524
+11-04-2024 05:42:32 picked up row: 2
+11-04-2024 05:42:32Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:42:33Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:42:34Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:42:37Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:42:38Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:42:39Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:42:40Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:42:42Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:42:44Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:42:46Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:42:48Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:42:49Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:42:51Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:42:53Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:42:55Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:42:56Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:42:58Executing Action: 17 Wait: 
+
+11-04-2024 05:43:01Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:43:02Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:43:04Executing Action: 20 Wait: 
+
+11-04-2024 05:43:06Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:43:06Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:43:06Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:43:08Executing Action: 23 Wait: 
+
+11-04-2024 05:43:24Executing Action: 24 click: new button clicked
+
+11-04-2024 05:43:26Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:43:27Executing Action: 26 click: new button clicked
+
+11-04-2024 05:43:29Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:43:30Executing Action: 28 click: new button clicked
+
+11-04-2024 05:43:32Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:43:33Executing Action: 30 click: new button clicked
+
+11-04-2024 05:43:35Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 05:43:36Executing Action: 32 click: new button clicked
+
+11-04-2024 05:43:39Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 05:43:40Executing Action: 34 click: new button clicked
+
+11-04-2024 05:43:40Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:43:40Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 05:43:40Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:43:40Executing Action: 36 click: new button clicked
+
+11-04-2024 05:43:40Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:43:40Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 05:43:40Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:43:40Executing Action: 38 click: new button clicked
+
+11-04-2024 05:43:40Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:43:40Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 05:43:40Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:43:40Executing Action: 40 click: new button clicked
+
+11-04-2024 05:43:40Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:43:40Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 05:43:40Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:43:40Executing Action: 42 click: new button clicked
+
+11-04-2024 05:43:40Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:43:40Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 05:43:40Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:43:40Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 05:43:42Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 05:43:44Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 05:43:46Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 05:43:47Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 05:43:48Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 05:43:48Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 05:43:48Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 05:43:48Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 05:43:48Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 05:43:48OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClearAndEnter(String inputColumn, String searchBy, IWebDriver driver, String elementValue, String textValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 457
+11-04-2024 05:43:49 Error in Action: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClearAndEnter(String inputColumn, String searchBy, IWebDriver driver, String elementValue, String textValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 457
+11-04-2024 05:43:49*************** TEST FAILED ***************
+
+11-04-2024 05:43:49 picked up row: 3
+11-04-2024 05:43:49 Assigning Driver: Chrome Driver
+11-04-2024 05:43:51Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:43:56Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:43:57Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:43:59Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:44:01Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:44:02Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:44:03Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:44:05Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:44:07Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:44:09Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:44:11Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:44:12Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:44:14Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:44:15Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:44:18Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:44:19Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:44:21Executing Action: 17 Wait: 
+
+11-04-2024 05:44:24Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:44:25Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:44:26Executing Action: 20 Wait: 
+
+11-04-2024 05:44:29Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:44:29Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:44:29Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:44:31Executing Action: 23 Wait: 
+
+11-04-2024 05:44:47Executing Action: 24 click: new button clicked
+
+11-04-2024 05:44:49Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 05:45:05Executing Action: 26 click: new button clicked
+
+11-04-2024 05:45:07Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 05:45:12Executing Action: 28 click: new button clicked
+
+11-04-2024 05:45:14Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 05:45:18Executing Action: 30 click: new button clicked
+
+11-04-2024 05:45:21Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 05:45:25Executing Action: 32 click: new button clicked
+
+11-04-2024 05:45:28Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 05:45:32Executing Action: 34 click: new button clicked
+
+11-04-2024 05:45:32Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:45:32Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 05:45:32Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 05:45:32Executing Action: 36 click: new button clicked
+
+11-04-2024 05:45:32Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:45:32Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 05:45:32Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 05:45:32Executing Action: 38 click: new button clicked
+
+11-04-2024 05:45:32Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:45:32Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 05:45:32Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 05:45:32Executing Action: 40 click: new button clicked
+
+11-04-2024 05:45:32Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:45:32Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 05:45:32Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 05:45:32Executing Action: 42 click: new button clicked
+
+11-04-2024 05:45:32Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:45:32Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 05:45:32Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 05:45:32Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 05:45:34Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 05:45:37Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 05:45:40Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 05:45:41Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 05:45:42Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 05:45:42Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 05:45:42Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 05:45:42Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 05:45:42Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 05:45:43Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 05:45:44Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 05:45:45Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 05:45:46Executing Action: 55 Date: End Date Entered
+
+11-04-2024 05:45:47System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at Program.<>c__DisplayClass0_0.<<Main>$>g__ActionExecution|6(ExcelHelper excelHelper, JToken item, List`1 actionsLst, DataTable dtData, Object inputData, String startstage, Int32 indexRow, FileModels fileInfo, RecordModel recordModel, RecordModel recordInfo, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Program.cs:line 524
+11-04-2024 05:59:13DataBase Connection Established successfully
+11-04-2024 05:59:13*** BOT IS ACTIVATED ***
+11-04-2024 05:59:13 Started Processing... 
+11-04-2024 05:59:13 picked up data file: WorkmenData.xlsx
+11-04-2024 05:59:13 Picked up Action JSON of Project: WORKMEN
+11-04-2024 05:59:15 Sheet name: TestData
+11-04-2024 05:59:15 picked up row: 1
+11-04-2024 05:59:15 Assigning Driver: Chrome Driver
+11-04-2024 05:59:17Executing Action: 1 URL: Went to URL
+
+11-04-2024 05:59:23Executing Action: 2 Select: User Type Selected
+
+11-04-2024 05:59:24Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 05:59:26Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 05:59:27Executing Action: 5 Text: User Id entered
+
+11-04-2024 05:59:28Executing Action: 6 Text: Password Entered
+
+11-04-2024 05:59:29Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 05:59:31Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 05:59:33Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 05:59:36Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 05:59:38Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 05:59:39Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 05:59:41Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 05:59:42Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 05:59:44Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 05:59:45Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 05:59:47Executing Action: 17 Wait: 
+
+11-04-2024 05:59:50Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 05:59:52Executing Action: 19 Select: Product Selected
+
+11-04-2024 05:59:53Executing Action: 20 Wait: 
+
+11-04-2024 05:59:55Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 05:59:55Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 05:59:55Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 05:59:57Executing Action: 23 Wait: 
+
+11-04-2024 06:00:13Executing Action: 24 click: new button clicked
+
+11-04-2024 06:00:15Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 06:00:20Executing Action: 26 click: new button clicked
+
+11-04-2024 06:00:22Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 06:00:27Executing Action: 28 click: new button clicked
+
+11-04-2024 06:00:29Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 06:00:34Executing Action: 30 click: new button clicked
+
+11-04-2024 06:00:36Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 06:00:41Executing Action: 32 click: new button clicked
+
+11-04-2024 06:00:43Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 06:00:48Executing Action: 34 click: new button clicked
+
+11-04-2024 06:00:48Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 06:00:48Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 06:00:48Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 06:00:48Executing Action: 36 click: new button clicked
+
+11-04-2024 06:00:48Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 06:00:48Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 06:00:48Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 06:00:48Executing Action: 38 click: new button clicked
+
+11-04-2024 06:00:48Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 06:00:48Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 06:00:48Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 06:00:48Executing Action: 40 click: new button clicked
+
+11-04-2024 06:00:48Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 06:00:48Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 06:00:48Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 06:00:48Executing Action: 42 click: new button clicked
+
+11-04-2024 06:00:48Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 06:00:48Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 06:00:48Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 06:00:48Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 06:00:50Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 06:00:53Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 06:00:55Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 06:00:56Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 06:00:57Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 06:01:00Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 06:01:01Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 06:01:02Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 06:01:02Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 06:01:02Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 06:01:02Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 06:01:02Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 06:01:02Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 06:01:02Executing Action: 55 Date: End Date Entered
+
+11-04-2024 06:01:02Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 06:01:02Executing Action: 56 Click: Save Button Clicked
+
+11-04-2024 06:01:04Executing Action: 57 Click: Generate Quote slip button clicked
+
+11-04-2024 06:01:07Executing Action: 58 Read: Quote ID read
+
+11-04-2024 06:01:08Executing Action: 59 Read: Premium Read
+
+11-04-2024 06:01:09Executing Action: 60 Click: Send to Insurer
+
+11-04-2024 06:01:24OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+11-04-2024 06:01:27 Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+11-04-2024 06:01:27*************** TEST FAILED ***************
+
+11-04-2024 06:01:39 picked up row: 2
+11-04-2024 06:01:39 Assigning Driver: Chrome Driver
+11-04-2024 06:01:41Executing Action: 1 URL: Went to URL
+
+11-04-2024 06:01:46Executing Action: 2 Select: User Type Selected
+
+11-04-2024 06:01:47Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 06:01:49Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 06:01:51Executing Action: 5 Text: User Id entered
+
+11-04-2024 06:01:52Executing Action: 6 Text: Password Entered
+
+11-04-2024 06:01:53Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 06:01:55Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 06:01:57Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 06:01:59Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 06:02:01Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 06:02:02Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 06:02:04Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 06:02:06Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 06:02:08Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 06:02:09Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 06:02:11Executing Action: 17 Wait: 
+
+11-04-2024 06:02:14Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 06:02:15Executing Action: 19 Select: Product Selected
+
+11-04-2024 06:02:17Executing Action: 20 Wait: 
+
+11-04-2024 06:02:19Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 06:02:19Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 06:02:19Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 06:02:21Executing Action: 23 Wait: 
+
+11-04-2024 06:02:37Executing Action: 24 click: new button clicked
+
+11-04-2024 06:02:39Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 06:02:44Executing Action: 26 click: new button clicked
+
+11-04-2024 06:02:46Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 06:02:51Executing Action: 28 click: new button clicked
+
+11-04-2024 06:02:53Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 06:02:58Executing Action: 30 click: new button clicked
+
+11-04-2024 06:03:00Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 06:03:05Executing Action: 32 click: new button clicked
+
+11-04-2024 06:03:07Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 06:03:12Executing Action: 34 click: new button clicked
+
+11-04-2024 06:03:12Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 06:03:12Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 06:03:12Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 06:03:12Executing Action: 36 click: new button clicked
+
+11-04-2024 06:03:12Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 06:03:12Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 06:03:12Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 06:03:12Executing Action: 38 click: new button clicked
+
+11-04-2024 06:03:12Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 06:03:12Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 06:03:12Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 06:03:12Executing Action: 40 click: new button clicked
+
+11-04-2024 06:03:12Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 06:03:12Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 06:03:12Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 06:03:12Executing Action: 42 click: new button clicked
+
+11-04-2024 06:03:12Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 06:03:12Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 06:03:12Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 06:03:12Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 06:03:14Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 06:03:17Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 06:03:19Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 06:03:20Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 06:03:21Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 06:03:21Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 06:03:21Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 06:03:21Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 06:03:21Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 06:03:22Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 06:03:22Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+11-04-2024 06:03:22Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 06:03:22Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+11-04-2024 06:03:22Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 06:03:22Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+11-04-2024 06:03:22Executing Action: 55 Date: End Date Entered
+
+11-04-2024 06:03:22Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+11-04-2024 06:03:22Executing Action: 56 Click: Save Button Clicked
+
+11-04-2024 06:03:24Executing Action: 57 Click: Generate Quote slip button clicked
+
+11-04-2024 06:03:26OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-kyd-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+11-04-2024 06:03:30 Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-kyd-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+11-04-2024 06:03:30*************** TEST FAILED ***************
+
+11-04-2024 06:03:42 picked up row: 3
+11-04-2024 06:03:42 Assigning Driver: Chrome Driver
+11-04-2024 06:03:44Executing Action: 1 URL: Went to URL
+
+11-04-2024 06:03:49Executing Action: 2 Select: User Type Selected
+
+11-04-2024 06:03:50Executing Action: 3 Click: Dropdown button clicked
+
+11-04-2024 06:03:52Executing Action: 4 Dropdown: User sub-type selected
+
+11-04-2024 06:03:53Executing Action: 5 Text: User Id entered
+
+11-04-2024 06:03:54Executing Action: 6 Text: Password Entered
+
+11-04-2024 06:03:56Executing Action: 7 Click: Login Button Clicked
+
+11-04-2024 06:03:58Executing Action: 8 forceclick: Close button clicked
+
+11-04-2024 06:04:00Executing Action: 9 Click: Add Quote Button Clicked
+
+11-04-2024 06:04:02Executing Action: 10 Click: sector dropdown clicked
+
+11-04-2024 06:04:04Executing Action: 11 Dropdown: Sector Selected
+
+11-04-2024 06:04:05Executing Action: 12 Click: Dropdown button clicked
+
+11-04-2024 06:04:07Executing Action: 13 Dropdown: Client Selected 
+
+11-04-2024 06:04:08Executing Action: 14 Click: Dropdown button clicked
+
+11-04-2024 06:04:10Executing Action: 15 Dropdown: Quote Type Selected
+
+11-04-2024 06:04:12Executing Action: 16 Click: Create Quote Button Clicked
+
+11-04-2024 06:04:14Executing Action: 17 Wait: 
+
+11-04-2024 06:04:17Executing Action: 18 Select: Category dropdown button clicked
+
+11-04-2024 06:04:18Executing Action: 19 Select: Product Selected
+
+11-04-2024 06:04:19Executing Action: 20 Wait: 
+
+11-04-2024 06:04:21Executing Action: 21 Upload: Rate Excel File uploaded
+
+11-04-2024 06:04:21Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11-04-2024 06:04:21Executing Action: 22 Click: Generate Indicative Quote
+
+11-04-2024 06:04:23Executing Action: 23 Wait: 
+
+11-04-2024 06:04:39Executing Action: 24 click: new button clicked
+
+11-04-2024 06:04:42Executing Action: 25 employeetabledata: enter the record one
+
+11-04-2024 06:04:46Executing Action: 26 click: new button clicked
+
+11-04-2024 06:04:49Executing Action: 27 employeetabledata: enter the record two
+
+11-04-2024 06:04:53Executing Action: 28 click: new button clicked
+
+11-04-2024 06:04:55Executing Action: 29 employeetabledata: enter the record three
+
+11-04-2024 06:05:00Executing Action: 30 click: new button clicked
+
+11-04-2024 06:05:03Executing Action: 31 employeetabledata: enter the record four
+
+11-04-2024 06:05:07Executing Action: 32 click: new button clicked
+
+11-04-2024 06:05:09Executing Action: 33 employeetabledata: enter the record one
+
+11-04-2024 06:05:14Executing Action: 34 click: new button clicked
+
+11-04-2024 06:05:14Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+11-04-2024 06:05:14Executing Action: 35 employeetabledata: enter the record two
+
+11-04-2024 06:05:14Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+11-04-2024 06:05:14Executing Action: 36 click: new button clicked
+
+11-04-2024 06:05:14Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+11-04-2024 06:05:14Executing Action: 37 employeetabledata: enter the record three
+
+11-04-2024 06:05:14Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+11-04-2024 06:05:14Executing Action: 38 click: new button clicked
+
+11-04-2024 06:05:14Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+11-04-2024 06:05:14Executing Action: 39 employeetabledata: enter the record four
+
+11-04-2024 06:05:14Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+11-04-2024 06:05:14Executing Action: 40 click: new button clicked
+
+11-04-2024 06:05:14Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+11-04-2024 06:05:14Executing Action: 41 employeetabledata: enter the record three
+
+11-04-2024 06:05:14Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+11-04-2024 06:05:14Executing Action: 42 click: new button clicked
+
+11-04-2024 06:05:14Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+11-04-2024 06:05:14Executing Action: 43 employeetabledata: enter the record four
+
+11-04-2024 06:05:14Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+11-04-2024 06:05:14Executing Action: 44 Click: Save Button clicked
+
+11-04-2024 06:05:16Executing Action: 45 Click: Additional Covers Tab opened
+
+11-04-2024 06:05:19Executing Action: 46 Click : Dropdown button clicked
+
+11-04-2024 06:05:21Executing Action: 47 Dropdown: Dropdown value selected 
+
+11-04-2024 06:05:23Executing Action: 48 Click: Auctual checkbox clicked
+
+11-04-2024 06:05:24Executing Action: 49 Click : Dropdown button clicked
+
+11-04-2024 06:05:24Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+11-04-2024 06:05:24Executing Action: 50 Dropdown: Dropdown value selected 
+
+11-04-2024 06:05:24Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+11-04-2024 06:05:24Executing Action: 51 clearandenter: Dicount Enter
+
+11-04-2024 06:05:25Executing Action: 52 clearandenter: Previous Company Name Entered
+
+11-04-2024 06:05:26Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+11-04-2024 06:05:27Executing Action: 54 Date: Start Date Entered
+
+11-04-2024 06:05:28Executing Action: 55 Date: End Date Entered
+
+11-04-2024 06:05:29Executing Action: 56 Click: Save Button Clicked
+
+11-04-2024 06:05:31Executing Action: 57 Click: Generate Quote slip button clicked
+
+11-04-2024 06:05:33OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-hid-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-75">...</div>
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+11-04-2024 06:05:37 Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-hid-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-75">...</div>
+  (Session info: chrome=123.0.6312.106)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+11-04-2024 06:05:37*************** TEST FAILED ***************
+
+11-04-2024 06:05:53 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:06:03 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:06:13 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:06:23 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:06:33 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:06:43 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:06:53 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:07:03 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:07:13 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:07:23 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:07:33 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:07:43 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:07:53 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11-04-2024 06:08:03 No .xlsx format input file is present in any of the input folders associated with projects present in Database

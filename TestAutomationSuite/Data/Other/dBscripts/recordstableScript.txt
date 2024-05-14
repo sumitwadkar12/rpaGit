@@ -1,0 +1,28 @@
+
+
+/****** Object:  Table [dbo].[Records]    Script Date: 27-09-2023 12:30:28 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Records](
+	[recordId] [int] IDENTITY(1,1) NOT NULL,
+	[processId] [int] NULL,
+	[fileId] [int] NULL,
+	[inputJsonRow] [varchar](max) NULL,
+	[startTime] [nvarchar](250) NULL,
+	[endTime] [nvarchar](250) NULL,
+	[outputJsonRow] [varchar](max) NULL,
+	[status] [varchar](max) NULL,
+	[lastStageProcessed] [varchar](50) NULL,
+	[lastError] [varchar](max) NULL,
+ CONSTRAINT [PK_Records] PRIMARY KEY CLUSTERED 
+(
+	[recordId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+

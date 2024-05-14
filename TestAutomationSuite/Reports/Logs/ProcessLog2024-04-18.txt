@@ -1,0 +1,251 @@
+18-04-2024 09:45:53DataBase Connection Established successfully
+18-04-2024 09:45:53*** BOT IS ACTIVATED ***
+18-04-2024 09:45:54 Started Processing... 
+18-04-2024 09:45:54 picked up data file: WorkmenData.xlsx
+18-04-2024 09:45:54 Picked up Action JSON of Project: WC
+18-04-2024 09:45:55 Sheet name: TestData
+18-04-2024 09:45:55 picked up row: 1
+18-04-2024 09:45:55 Assigning Driver: Chrome Driver
+18-04-2024 09:45:57Executing Action: 1 URL: Went to URL
+
+18-04-2024 09:46:02Executing Action: 2 Select: User Type Selected
+
+18-04-2024 09:46:03Executing Action: 3 Click: Dropdown button clicked
+
+18-04-2024 09:46:05Executing Action: 4 Dropdown: User sub-type selected
+
+18-04-2024 09:46:06Executing Action: 5 Text: User Id entered
+
+18-04-2024 09:46:08Executing Action: 6 Text: Password Entered
+
+18-04-2024 09:46:09Executing Action: 7 Click: Login Button Clicked
+
+18-04-2024 09:46:11Executing Action: 8 forceclick: Close button clicked
+
+18-04-2024 09:46:13Executing Action: 9 Click: Add Quote Button Clicked
+
+18-04-2024 09:46:15Executing Action: 10 Click: sector dropdown clicked
+
+18-04-2024 09:46:17Executing Action: 11 Dropdown: Sector Selected
+
+18-04-2024 09:46:18Executing Action: 12 Click: Dropdown button clicked
+
+18-04-2024 09:46:20Executing Action: 13 Dropdown: Client Selected 
+
+18-04-2024 09:46:21Executing Action: 14 Click: Dropdown button clicked
+
+18-04-2024 09:46:23Executing Action: 15 Dropdown: Quote Type Selected
+
+18-04-2024 09:46:24Executing Action: 16 Click: Create Quote Button Clicked
+
+18-04-2024 09:46:27Executing Action: 17 Wait: 
+
+18-04-2024 09:46:30Executing Action: 18 Select: Category dropdown button clicked
+
+18-04-2024 09:46:31Executing Action: 19 Select: Product Selected
+
+18-04-2024 09:46:32OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-uhj-c194="" class="label-text">...</div> is not clickable at point (739, 286). Other element would receive the click: <img src="../../../assets/latest_loader.gif" alt="" width="150" height="150">
+  (Session info: chrome=123.0.6312.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 663
+18-04-2024 09:46:35 Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-uhj-c194="" class="label-text">...</div> is not clickable at point (739, 286). Other element would receive the click: <img src="../../../assets/latest_loader.gif" alt="" width="150" height="150">
+  (Session info: chrome=123.0.6312.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 663
+18-04-2024 09:46:35*************** TEST FAILED ***************
+
+18-04-2024 09:46:36 picked up row: 2
+18-04-2024 09:46:36 Assigning Driver: Chrome Driver
+18-04-2024 09:46:37Executing Action: 1 URL: Went to URL
+
+18-04-2024 09:46:42Executing Action: 2 Select: User Type Selected
+
+18-04-2024 09:46:43Executing Action: 3 Click: Dropdown button clicked
+
+18-04-2024 09:46:45Executing Action: 4 Dropdown: User sub-type selected
+
+18-04-2024 09:46:46Executing Action: 5 Text: User Id entered
+
+18-04-2024 09:46:47Executing Action: 6 Text: Password Entered
+
+18-04-2024 09:46:48Executing Action: 7 Click: Login Button Clicked
+
+18-04-2024 09:46:51Executing Action: 8 forceclick: Close button clicked
+
+18-04-2024 09:46:52Executing Action: 9 Click: Add Quote Button Clicked
+
+18-04-2024 09:46:55Executing Action: 10 Click: sector dropdown clicked
+
+18-04-2024 09:46:57Executing Action: 11 Dropdown: Sector Selected
+
+18-04-2024 09:46:58Executing Action: 12 Click: Dropdown button clicked
+
+18-04-2024 09:47:00Executing Action: 13 Dropdown: Client Selected 
+
+18-04-2024 09:47:01Executing Action: 14 Click: Dropdown button clicked
+
+18-04-2024 09:47:03Executing Action: 15 Dropdown: Quote Type Selected
+
+18-04-2024 09:47:04Executing Action: 16 Click: Create Quote Button Clicked
+
+18-04-2024 09:47:06Executing Action: 17 Wait: 
+
+18-04-2024 09:47:09Executing Action: 18 Select: Category dropdown button clicked
+
+18-04-2024 09:47:10Executing Action: 19 Select: Product Selected
+
+18-04-2024 09:47:11OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-lsa-c194="" class="label-text">...</div> is not clickable at point (739, 286). Other element would receive the click: <img src="../../../assets/latest_loader.gif" alt="" width="150" height="150">
+  (Session info: chrome=123.0.6312.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 663
+18-04-2024 09:47:15 Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-lsa-c194="" class="label-text">...</div> is not clickable at point (739, 286). Other element would receive the click: <img src="../../../assets/latest_loader.gif" alt="" width="150" height="150">
+  (Session info: chrome=123.0.6312.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 663
+18-04-2024 09:47:15*************** TEST FAILED ***************
+
+18-04-2024 09:47:15 picked up row: 3
+18-04-2024 09:47:15 Assigning Driver: Chrome Driver
+18-04-2024 09:47:16Executing Action: 1 URL: Went to URL
+
+18-04-2024 09:47:22Executing Action: 2 Select: User Type Selected
+
+18-04-2024 09:47:23Executing Action: 3 Click: Dropdown button clicked
+
+18-04-2024 09:47:25Executing Action: 4 Dropdown: User sub-type selected
+
+18-04-2024 09:47:26Executing Action: 5 Text: User Id entered
+
+18-04-2024 09:47:27Executing Action: 6 Text: Password Entered
+
+18-04-2024 09:47:28Executing Action: 7 Click: Login Button Clicked
+
+18-04-2024 09:47:30Executing Action: 8 forceclick: Close button clicked
+
+18-04-2024 09:47:32Executing Action: 9 Click: Add Quote Button Clicked
+
+18-04-2024 09:47:34Executing Action: 10 Click: sector dropdown clicked
+
+18-04-2024 09:47:36Executing Action: 11 Dropdown: Sector Selected
+
+18-04-2024 09:47:37Executing Action: 12 Click: Dropdown button clicked
+
+18-04-2024 09:47:39Executing Action: 13 Dropdown: Client Selected 
+
+18-04-2024 09:47:41Executing Action: 14 Click: Dropdown button clicked
+
+18-04-2024 09:47:43Executing Action: 15 Dropdown: Quote Type Selected
+
+18-04-2024 09:47:44Executing Action: 16 Click: Create Quote Button Clicked
+
+18-04-2024 09:47:46Executing Action: 17 Wait: 
+
+18-04-2024 09:47:49Executing Action: 18 Select: Category dropdown button clicked
+
+18-04-2024 09:47:50Executing Action: 19 Select: Product Selected
+
+18-04-2024 09:47:51OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-iyu-c194="" class="label-text">...</div> is not clickable at point (739, 286). Other element would receive the click: <img src="../../../assets/latest_loader.gif" alt="" width="150" height="150">
+  (Session info: chrome=123.0.6312.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 663
+18-04-2024 09:47:54 Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-iyu-c194="" class="label-text">...</div> is not clickable at point (739, 286). Other element would receive the click: <img src="../../../assets/latest_loader.gif" alt="" width="150" height="150">
+  (Session info: chrome=123.0.6312.123)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 663
+18-04-2024 09:47:54*************** TEST FAILED ***************
+
+18-04-2024 09:48:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:48:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:48:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:48:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:48:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:48:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:49:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:49:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:49:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:49:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:49:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:49:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:50:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:50:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:50:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:50:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:50:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:50:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:51:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:51:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:51:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:51:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:51:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:51:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:52:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:52:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:52:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:52:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:52:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:52:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:53:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:53:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:53:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:53:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:53:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:53:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:54:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:54:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:54:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:54:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:54:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:54:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:55:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:55:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:55:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:55:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:55:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:55:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:56:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:56:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:56:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:56:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:56:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:56:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:57:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:57:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:57:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:57:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:57:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:57:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:58:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:58:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:58:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:58:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:58:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:58:55 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:59:05 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:59:15 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:59:25 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:59:35 No .xlsx format input file is present in any of the input folders associated with projects present in Database
+18-04-2024 09:59:45 No .xlsx format input file is present in any of the input folders associated with projects present in Database

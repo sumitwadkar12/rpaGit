@@ -1,0 +1,2776 @@
+11:58:33 ==> DataBase Connection Established successfully
+11:58:33 ==> *** BOT IS ACTIVATED ***
+11:58:34 ==>  Started Processing... 
+11:58:34 ==>  picked up data file: WorkmenData.xlsx
+11:58:34 ==>  Picked up Action JSON of Project: WORKMEN
+11:58:35 ==>  Sheet name: TestData
+11:58:35 ==>  picked up row: 1
+11:58:35 ==>  Assigning Driver: Chrome Driver
+11:58:37 ==> Executing Action: 1 URL: Went to URL
+
+11:58:42 ==> Executing Action: 2 Select: User Type Selected
+
+11:58:44 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:58:46 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:58:47 ==> Executing Action: 5 Text: User Id entered
+
+11:58:48 ==> Executing Action: 6 Text: Password Entered
+
+11:58:49 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:58:51 ==> Executing Action: 8 forceclick: Close button clicked
+
+11:58:53 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:58:56 ==> Executing Action: 10 Click: sector dropdown clicked
+
+11:58:58 ==> Executing Action: 11 Dropdown: Sector Selected
+
+11:58:59 ==> Executing Action: 12 Click: Dropdown button clicked
+
+11:59:01 ==> Executing Action: 13 Dropdown: Client Selected 
+
+11:59:02 ==> Executing Action: 14 Click: Dropdown button clicked
+
+11:59:04 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+11:59:05 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+11:59:08 ==> Executing Action: 17 Wait: 
+
+11:59:11 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+11:59:12 ==> Executing Action: 19 Select: Product Selected
+
+11:59:13 ==> Executing Action: 20 Wait: 
+
+11:59:15 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+11:59:15 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+11:59:15 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+11:59:18 ==> Executing Action: 23 Wait: 
+
+11:59:34 ==> Executing Action: 24 click: new button clicked
+
+11:59:36 ==> Executing Action: 25 employeetabledata: enter the record one
+
+11:59:41 ==> Executing Action: 26 click: new button clicked
+
+11:59:43 ==> Executing Action: 27 employeetabledata: enter the record two
+
+11:59:48 ==> Executing Action: 28 click: new button clicked
+
+11:59:50 ==> Executing Action: 29 employeetabledata: enter the record three
+
+11:59:56 ==> Executing Action: 30 click: new button clicked
+
+11:59:58 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:00:03 ==> Executing Action: 32 click: new button clicked
+
+12:00:05 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:00:10 ==> Executing Action: 34 click: new button clicked
+
+12:00:10 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:00:10 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:00:10 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:00:10 ==> Executing Action: 36 click: new button clicked
+
+12:00:10 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:00:10 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:00:10 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:00:10 ==> Executing Action: 38 click: new button clicked
+
+12:00:10 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:00:10 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:00:10 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:00:10 ==> Executing Action: 40 click: new button clicked
+
+12:00:10 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:00:10 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:00:10 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:00:10 ==> Executing Action: 42 click: new button clicked
+
+12:00:10 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:00:10 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:00:10 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:00:10 ==> Executing Action: 44 Click: Save Button clicked
+
+12:00:12 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:00:16 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:00:18 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:00:19 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:00:20 ==> Executing Action: 49 Click : Dropdown button clicked
+
+12:00:22 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+12:00:23 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+12:00:24 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+12:00:24 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+12:00:24 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+12:00:24 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+12:00:24 ==> Executing Action: 54 Date: Start Date Entered
+
+12:00:24 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+12:00:24 ==> Executing Action: 55 Date: End Date Entered
+
+12:00:24 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+12:00:24 ==> Executing Action: 56 Click: Save Button Clicked
+
+12:00:27 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+12:00:29 ==> Executing Action: 58 Read: Quote ID read
+
+12:00:30 ==> Executing Action: 59 Read: Premium Read
+
+12:00:31 ==> Executing Action: 60 Click: Send to Insurer
+
+12:00:47 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+12:00:50 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+12:00:50 ==> *************** TEST FAILED ***************
+
+12:00:51 ==>  picked up row: 2
+12:00:51 ==>  Assigning Driver: Chrome Driver
+12:00:52 ==> Executing Action: 1 URL: Went to URL
+
+12:00:57 ==> Executing Action: 2 Select: User Type Selected
+
+12:00:59 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:01:01 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:01:02 ==> Executing Action: 5 Text: User Id entered
+
+12:01:03 ==> Executing Action: 6 Text: Password Entered
+
+12:01:04 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:01:06 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:01:08 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:01:10 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:01:13 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:01:14 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:01:16 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:01:17 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:01:19 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:01:20 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:01:23 ==> Executing Action: 17 Wait: 
+
+12:01:26 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:01:27 ==> Executing Action: 19 Select: Product Selected
+
+12:01:28 ==> Executing Action: 20 Wait: 
+
+12:01:30 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:01:30 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:01:30 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:01:33 ==> Executing Action: 23 Wait: 
+
+12:01:49 ==> Executing Action: 24 click: new button clicked
+
+12:01:51 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:01:56 ==> Executing Action: 26 click: new button clicked
+
+12:01:58 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:02:03 ==> Executing Action: 28 click: new button clicked
+
+12:02:05 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:02:11 ==> Executing Action: 30 click: new button clicked
+
+12:02:13 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:02:18 ==> Executing Action: 32 click: new button clicked
+
+12:02:20 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:02:25 ==> Executing Action: 34 click: new button clicked
+
+12:02:25 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:02:25 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:02:25 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:02:25 ==> Executing Action: 36 click: new button clicked
+
+12:02:25 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:02:25 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:02:25 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:02:25 ==> Executing Action: 38 click: new button clicked
+
+12:02:25 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:02:25 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:02:25 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:02:25 ==> Executing Action: 40 click: new button clicked
+
+12:02:25 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:02:25 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:02:25 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:02:25 ==> Executing Action: 42 click: new button clicked
+
+12:02:25 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:02:25 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:02:25 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:02:25 ==> Executing Action: 44 Click: Save Button clicked
+
+12:02:27 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:02:30 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:02:33 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:02:34 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:02:35 ==> Executing Action: 49 Click : Dropdown button clicked
+
+12:02:35 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+12:02:35 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+12:02:35 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+12:02:35 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+12:02:36 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+12:02:36 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+12:02:36 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+12:02:36 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+12:02:36 ==> Executing Action: 54 Date: Start Date Entered
+
+12:02:36 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+12:02:36 ==> Executing Action: 55 Date: End Date Entered
+
+12:02:36 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+12:02:36 ==> Executing Action: 56 Click: Save Button Clicked
+
+12:02:38 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+12:02:40 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-nlh-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:02:44 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-nlh-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:02:44 ==> *************** TEST FAILED ***************
+
+12:02:44 ==>  picked up row: 3
+12:02:44 ==>  Assigning Driver: Chrome Driver
+12:02:46 ==> Executing Action: 1 URL: Went to URL
+
+12:02:52 ==> Executing Action: 2 Select: User Type Selected
+
+12:02:53 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:02:55 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:02:56 ==> Executing Action: 5 Text: User Id entered
+
+12:02:57 ==> Executing Action: 6 Text: Password Entered
+
+12:02:58 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:03:01 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:03:03 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:03:05 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:03:07 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:03:08 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:03:10 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:03:12 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:03:14 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:03:15 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:03:17 ==> Executing Action: 17 Wait: 
+
+12:03:20 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:03:21 ==> Executing Action: 19 Select: Product Selected
+
+12:03:23 ==> Executing Action: 20 Wait: 
+
+12:03:25 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:03:25 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:03:25 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:03:27 ==> Executing Action: 23 Wait: 
+
+12:03:43 ==> Executing Action: 24 click: new button clicked
+
+12:03:45 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:03:50 ==> Executing Action: 26 click: new button clicked
+
+12:03:53 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:03:58 ==> Executing Action: 28 click: new button clicked
+
+12:04:00 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:04:05 ==> Executing Action: 30 click: new button clicked
+
+12:04:07 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:04:12 ==> Executing Action: 32 click: new button clicked
+
+12:04:14 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:04:19 ==> Executing Action: 34 click: new button clicked
+
+12:04:19 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:04:19 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:04:19 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:04:19 ==> Executing Action: 36 click: new button clicked
+
+12:04:19 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:04:19 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:04:19 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:04:19 ==> Executing Action: 38 click: new button clicked
+
+12:04:19 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:04:19 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:04:19 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:04:19 ==> Executing Action: 40 click: new button clicked
+
+12:04:19 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:04:19 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:04:19 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:04:19 ==> Executing Action: 42 click: new button clicked
+
+12:04:19 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:04:19 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:04:19 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:04:19 ==> Executing Action: 44 Click: Save Button clicked
+
+12:04:22 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:04:25 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:04:27 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:04:28 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:04:29 ==> Executing Action: 49 Click : Dropdown button clicked
+
+12:04:29 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+12:04:29 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+12:04:29 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+12:04:29 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+12:04:30 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+12:04:32 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+12:04:33 ==> Executing Action: 54 Date: Start Date Entered
+
+12:04:34 ==> Executing Action: 55 Date: End Date Entered
+
+12:04:35 ==> Executing Action: 56 Click: Save Button Clicked
+
+12:04:37 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+12:04:39 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-qvu-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-75">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:04:43 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-qvu-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-75">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:04:43 ==> *************** TEST FAILED ***************
+
+12:05:41 ==> DataBase Connection Established successfully
+12:05:41 ==> *** BOT IS ACTIVATED ***
+12:05:41 ==>  Started Processing... 
+12:05:41 ==>  picked up data file: WorkmenData.xlsx
+12:05:41 ==>  Picked up Action JSON of Project: WORKMEN
+12:05:42 ==>  Sheet name: TestData
+12:05:42 ==>  picked up row: 1
+12:05:42 ==>  Assigning Driver: Chrome Driver
+12:05:44 ==> Executing Action: 1 URL: Went to URL
+
+12:05:49 ==> Executing Action: 2 Select: User Type Selected
+
+12:05:51 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:06:04 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:06:05 ==> Executing Action: 5 Text: User Id entered
+
+12:06:07 ==> Executing Action: 6 Text: Password Entered
+
+12:06:08 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:06:10 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:06:12 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:06:14 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-xnx-c114="" type="button" class="btn btn-primary pl-2 pr-2 ml-3" tabindex="0">...</button> is not clickable at point (1469, 97). Other element would receive the click: <div _ngcontent-xnx-c160="" class="ngx-spinner-overlay ng-tns-c160-2 ng-trigger ng-trigger-fadeIn ng-star-inserted ng-animating" style="background-color: rgba(255, 255, 255, 0.7); z-index: 99999; position: fixed;">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:06:18 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-xnx-c114="" type="button" class="btn btn-primary pl-2 pr-2 ml-3" tabindex="0">...</button> is not clickable at point (1469, 97). Other element would receive the click: <div _ngcontent-xnx-c160="" class="ngx-spinner-overlay ng-tns-c160-2 ng-trigger ng-trigger-fadeIn ng-star-inserted ng-animating" style="background-color: rgba(255, 255, 255, 0.7); z-index: 99999; position: fixed;">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:06:18 ==> *************** TEST FAILED ***************
+
+12:06:18 ==>  picked up row: 2
+12:06:18 ==>  Assigning Driver: Chrome Driver
+12:06:19 ==> Executing Action: 1 URL: Went to URL
+
+12:06:25 ==> Executing Action: 2 Select: User Type Selected
+
+12:06:26 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:06:28 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:06:29 ==> Executing Action: 5 Text: User Id entered
+
+12:06:30 ==> Executing Action: 6 Text: Password Entered
+
+12:06:31 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:06:34 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:06:36 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:06:38 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:06:40 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:06:41 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:06:43 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:06:44 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:06:47 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:06:48 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:06:50 ==> Executing Action: 17 Wait: 
+
+12:06:53 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:06:54 ==> Executing Action: 19 Select: Product Selected
+
+12:06:56 ==> Executing Action: 20 Wait: 
+
+12:06:58 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:06:58 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:06:58 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:07:00 ==> Executing Action: 23 Wait: 
+
+12:07:16 ==> Executing Action: 24 click: new button clicked
+
+12:07:18 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:07:23 ==> Executing Action: 26 click: new button clicked
+
+12:07:25 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:07:30 ==> Executing Action: 28 click: new button clicked
+
+12:07:33 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:07:38 ==> Executing Action: 30 click: new button clicked
+
+12:07:40 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:07:45 ==> Executing Action: 32 click: new button clicked
+
+12:07:47 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:07:52 ==> Executing Action: 34 click: new button clicked
+
+12:07:52 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:07:52 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:07:52 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:07:52 ==> Executing Action: 36 click: new button clicked
+
+12:07:52 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:07:52 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:07:52 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:07:52 ==> Executing Action: 38 click: new button clicked
+
+12:07:52 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:07:52 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:07:52 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:07:52 ==> Executing Action: 40 click: new button clicked
+
+12:07:52 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:07:52 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:07:52 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:07:52 ==> Executing Action: 42 click: new button clicked
+
+12:07:52 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:07:52 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:07:52 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:07:52 ==> Executing Action: 44 Click: Save Button clicked
+
+12:07:55 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:07:58 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:08:00 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:08:00 ==> Dropdown does not contain Medical Extension AGGREGATE option, please check your input column value again
+12:08:03 ==>  Error in Action: 
+12:08:03 ==> *************** TEST FAILED ***************
+
+12:08:03 ==>  picked up row: 3
+12:08:04 ==>  Assigning Driver: Chrome Driver
+12:08:05 ==> Executing Action: 1 URL: Went to URL
+
+12:08:10 ==> Executing Action: 2 Select: User Type Selected
+
+12:08:11 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:08:19 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:08:20 ==> Executing Action: 5 Text: User Id entered
+
+12:08:21 ==> Executing Action: 6 Text: Password Entered
+
+12:08:22 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:08:25 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:08:27 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:08:29 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:08:31 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:08:32 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:08:34 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:08:36 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:08:38 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:08:39 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:08:41 ==> Executing Action: 17 Wait: 
+
+12:08:44 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:08:45 ==> Executing Action: 19 Select: Product Selected
+
+12:08:47 ==> Executing Action: 20 Wait: 
+
+12:08:49 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:08:49 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:08:49 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:08:51 ==> Executing Action: 23 Wait: 
+
+12:09:07 ==> Executing Action: 24 click: new button clicked
+
+12:09:09 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:09:14 ==> Executing Action: 26 click: new button clicked
+
+12:09:16 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:09:21 ==> Executing Action: 28 click: new button clicked
+
+12:09:24 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:09:29 ==> Executing Action: 30 click: new button clicked
+
+12:09:31 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:09:36 ==> Executing Action: 32 click: new button clicked
+
+12:09:38 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:09:43 ==> Executing Action: 34 click: new button clicked
+
+12:09:43 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:09:43 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:09:43 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:09:43 ==> Executing Action: 36 click: new button clicked
+
+12:09:43 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:09:43 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:09:43 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:09:43 ==> Executing Action: 38 click: new button clicked
+
+12:09:43 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:09:43 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:09:43 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:09:43 ==> Executing Action: 40 click: new button clicked
+
+12:09:43 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:09:43 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:09:43 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:09:43 ==> Executing Action: 42 click: new button clicked
+
+12:09:43 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:09:43 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:09:43 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:09:43 ==> Executing Action: 44 Click: Save Button clicked
+
+12:09:45 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:09:48 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:09:51 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:09:52 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:11:33 ==> DataBase Connection Established successfully
+12:11:33 ==> *** BOT IS ACTIVATED ***
+12:11:34 ==>  Started Processing... 
+12:11:34 ==>  picked up data file: WorkmenData.xlsx
+12:11:34 ==>  Picked up Action JSON of Project: WORKMEN
+12:11:35 ==>  Sheet name: TestData
+12:11:35 ==>  picked up row: 1
+12:11:35 ==>  Assigning Driver: Chrome Driver
+12:11:37 ==> Executing Action: 1 URL: Went to URL
+
+12:11:43 ==> Executing Action: 2 Select: User Type Selected
+
+12:11:44 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:16:23 ==> DataBase Connection Established successfully
+12:16:23 ==> *** BOT IS ACTIVATED ***
+12:16:24 ==>  Started Processing... 
+12:16:24 ==>  picked up data file: WorkmenData.xlsx
+12:16:24 ==>  Picked up Action JSON of Project: WORKMEN
+12:16:24 ==>  Sheet name: TestData
+12:16:24 ==>  picked up row: 1
+12:16:25 ==>  Assigning Driver: Chrome Driver
+12:16:27 ==> Executing Action: 1 URL: Went to URL
+
+12:16:32 ==> Executing Action: 2 Select: User Type Selected
+
+12:16:33 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:16:41 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:16:42 ==> Executing Action: 5 Text: User Id entered
+
+12:16:43 ==> Executing Action: 6 Text: Password Entered
+
+12:16:45 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:16:47 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:16:49 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:16:51 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:16:53 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:16:54 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:16:57 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:16:58 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:17:00 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:17:01 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:17:03 ==> Executing Action: 17 Wait: 
+
+12:17:06 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:17:07 ==> Executing Action: 19 Select: Product Selected
+
+12:17:09 ==> Executing Action: 20 Wait: 
+
+12:17:11 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:17:11 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:17:11 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:17:13 ==> Executing Action: 23 Wait: 
+
+12:17:29 ==> Executing Action: 24 click: new button clicked
+
+12:17:31 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:17:36 ==> Executing Action: 26 click: new button clicked
+
+12:17:39 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:17:44 ==> Executing Action: 28 click: new button clicked
+
+12:17:46 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:17:51 ==> Executing Action: 30 click: new button clicked
+
+12:17:53 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:17:59 ==> Executing Action: 32 click: new button clicked
+
+12:18:01 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:18:06 ==> Executing Action: 34 click: new button clicked
+
+12:18:06 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:18:06 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:18:06 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:18:06 ==> Executing Action: 36 click: new button clicked
+
+12:18:06 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:18:06 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:18:06 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:18:06 ==> Executing Action: 38 click: new button clicked
+
+12:18:06 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:18:06 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:18:06 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:18:06 ==> Executing Action: 40 click: new button clicked
+
+12:18:06 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:18:06 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:18:06 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:18:06 ==> Executing Action: 42 click: new button clicked
+
+12:18:06 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:18:06 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:18:06 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:18:06 ==> Executing Action: 44 Click: Save Button clicked
+
+12:18:08 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:18:11 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:18:13 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:18:14 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:18:17 ==> Executing Action: 49 Click : Dropdown button clicked
+
+12:18:19 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+12:18:20 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+12:18:21 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+12:18:21 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+12:18:21 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+12:18:21 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+12:18:21 ==> Executing Action: 54 Date: Start Date Entered
+
+12:18:21 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+12:18:21 ==> Executing Action: 55 Date: End Date Entered
+
+12:18:21 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+12:18:21 ==> Executing Action: 56 Click: Save Button Clicked
+
+12:18:23 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+12:18:26 ==> Executing Action: 58 Read: Quote ID read
+
+12:18:27 ==> Executing Action: 59 Read: Premium Read
+
+12:18:28 ==> Executing Action: 60 Click: Send to Insurer
+
+12:18:43 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+12:18:47 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+12:18:47 ==> *************** TEST FAILED ***************
+
+12:18:47 ==>  picked up row: 2
+12:18:47 ==>  Assigning Driver: Chrome Driver
+12:18:49 ==> Executing Action: 1 URL: Went to URL
+
+12:18:54 ==> Executing Action: 2 Select: User Type Selected
+
+12:18:55 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:18:57 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:18:58 ==> Executing Action: 5 Text: User Id entered
+
+12:19:00 ==> Executing Action: 6 Text: Password Entered
+
+12:19:01 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:19:03 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:19:05 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:19:07 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:19:09 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:19:10 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:19:13 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:19:14 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:19:16 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:19:17 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:19:19 ==> Executing Action: 17 Wait: 
+
+12:19:22 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:19:23 ==> Executing Action: 19 Select: Product Selected
+
+12:19:25 ==> Executing Action: 20 Wait: 
+
+12:19:27 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:19:27 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:19:27 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:19:29 ==> Executing Action: 23 Wait: 
+
+12:19:45 ==> Executing Action: 24 click: new button clicked
+
+12:19:47 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:19:53 ==> Executing Action: 26 click: new button clicked
+
+12:19:55 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:20:00 ==> Executing Action: 28 click: new button clicked
+
+12:20:02 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:20:07 ==> Executing Action: 30 click: new button clicked
+
+12:20:09 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:20:15 ==> Executing Action: 32 click: new button clicked
+
+12:20:17 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:20:22 ==> Executing Action: 34 click: new button clicked
+
+12:20:22 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:20:22 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:20:22 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:20:22 ==> Executing Action: 36 click: new button clicked
+
+12:20:22 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:20:22 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:20:22 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:20:22 ==> Executing Action: 38 click: new button clicked
+
+12:20:22 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:20:22 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:20:22 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:20:22 ==> Executing Action: 40 click: new button clicked
+
+12:20:22 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:20:22 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:20:22 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:20:22 ==> Executing Action: 42 click: new button clicked
+
+12:20:22 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:20:22 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:20:22 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:20:22 ==> Executing Action: 44 Click: Save Button clicked
+
+12:20:24 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:20:27 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:20:29 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:20:30 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:20:32 ==> Executing Action: 49 Click : Dropdown button clicked
+
+12:20:32 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+12:20:32 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+12:20:32 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+12:20:32 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+12:20:34 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+12:20:34 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+12:20:34 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+12:20:34 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+12:20:34 ==> Executing Action: 54 Date: Start Date Entered
+
+12:20:34 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+12:20:34 ==> Executing Action: 55 Date: End Date Entered
+
+12:20:34 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+12:20:34 ==> Executing Action: 56 Click: Save Button Clicked
+
+12:20:36 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+12:20:38 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-mkx-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:20:42 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-mkx-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:20:42 ==> *************** TEST FAILED ***************
+
+12:20:42 ==>  picked up row: 3
+12:20:42 ==>  Assigning Driver: Chrome Driver
+12:20:43 ==> Executing Action: 1 URL: Went to URL
+
+12:20:49 ==> Executing Action: 2 Select: User Type Selected
+
+12:20:50 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:20:52 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:20:53 ==> Executing Action: 5 Text: User Id entered
+
+12:20:55 ==> Executing Action: 6 Text: Password Entered
+
+12:20:56 ==> Executing Action: 7 Click: Login Button Clicked
+
+12:20:58 ==> Executing Action: 8 forceclick: Close button clicked
+
+12:21:00 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+12:21:02 ==> Executing Action: 10 Click: sector dropdown clicked
+
+12:21:04 ==> Executing Action: 11 Dropdown: Sector Selected
+
+12:21:05 ==> Executing Action: 12 Click: Dropdown button clicked
+
+12:21:07 ==> Executing Action: 13 Dropdown: Client Selected 
+
+12:21:09 ==> Executing Action: 14 Click: Dropdown button clicked
+
+12:21:11 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+12:21:12 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+12:21:14 ==> Executing Action: 17 Wait: 
+
+12:21:17 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+12:21:18 ==> Executing Action: 19 Select: Product Selected
+
+12:21:20 ==> Executing Action: 20 Wait: 
+
+12:21:22 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+12:21:22 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+12:21:22 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+12:21:24 ==> Executing Action: 23 Wait: 
+
+12:21:40 ==> Executing Action: 24 click: new button clicked
+
+12:21:42 ==> Executing Action: 25 employeetabledata: enter the record one
+
+12:21:48 ==> Executing Action: 26 click: new button clicked
+
+12:21:50 ==> Executing Action: 27 employeetabledata: enter the record two
+
+12:21:55 ==> Executing Action: 28 click: new button clicked
+
+12:21:57 ==> Executing Action: 29 employeetabledata: enter the record three
+
+12:22:02 ==> Executing Action: 30 click: new button clicked
+
+12:22:04 ==> Executing Action: 31 employeetabledata: enter the record four
+
+12:22:10 ==> Executing Action: 32 click: new button clicked
+
+12:22:12 ==> Executing Action: 33 employeetabledata: enter the record one
+
+12:22:17 ==> Executing Action: 34 click: new button clicked
+
+12:22:17 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+12:22:17 ==> Executing Action: 35 employeetabledata: enter the record two
+
+12:22:17 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+12:22:17 ==> Executing Action: 36 click: new button clicked
+
+12:22:17 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+12:22:17 ==> Executing Action: 37 employeetabledata: enter the record three
+
+12:22:17 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+12:22:17 ==> Executing Action: 38 click: new button clicked
+
+12:22:17 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+12:22:17 ==> Executing Action: 39 employeetabledata: enter the record four
+
+12:22:17 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+12:22:17 ==> Executing Action: 40 click: new button clicked
+
+12:22:17 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+12:22:17 ==> Executing Action: 41 employeetabledata: enter the record three
+
+12:22:17 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+12:22:17 ==> Executing Action: 42 click: new button clicked
+
+12:22:17 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+12:22:17 ==> Executing Action: 43 employeetabledata: enter the record four
+
+12:22:17 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+12:22:17 ==> Executing Action: 44 Click: Save Button clicked
+
+12:22:19 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+12:22:22 ==> Executing Action: 46 Click : Dropdown button clicked
+
+12:22:25 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+12:22:26 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+12:22:28 ==> Executing Action: 49 Click : Dropdown button clicked
+
+12:22:28 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+12:22:28 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+12:22:28 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+12:22:28 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+12:22:29 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+12:22:30 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+12:22:32 ==> Executing Action: 54 Date: Start Date Entered
+
+12:22:33 ==> Executing Action: 55 Date: End Date Entered
+
+12:22:34 ==> Executing Action: 56 Click: Save Button Clicked
+
+12:22:36 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+12:22:38 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-vts-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-75">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:22:41 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-vts-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-75">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+12:22:41 ==> *************** TEST FAILED ***************
+
+14:10:06 ==> DataBase Connection Established successfully
+14:10:06 ==> *** BOT IS ACTIVATED ***
+14:10:06 ==>  Started Processing... 
+14:10:06 ==>  picked up data file: WorkmenData.xlsx
+14:10:06 ==>  Picked up Action JSON of Project: WORKMEN
+14:10:09 ==>  Sheet name: TestData
+14:10:09 ==>  picked up row: 1
+14:10:09 ==>  Assigning Driver: Chrome Driver
+14:10:12 ==> Executing Action: 1 URL: Went to URL
+
+14:10:17 ==> Executing Action: 2 Select: User Type Selected
+
+14:10:19 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:10:21 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:10:22 ==> Executing Action: 5 Text: User Id entered
+
+14:10:23 ==> Executing Action: 6 Text: Password Entered
+
+14:10:24 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:10:26 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:10:28 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:10:31 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:10:33 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:10:34 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:10:36 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:10:37 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:10:39 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:10:40 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:10:43 ==> Executing Action: 17 Wait: 
+
+14:10:46 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:10:47 ==> Executing Action: 19 Select: Product Selected
+
+14:10:48 ==> Executing Action: 20 Wait: 
+
+14:10:50 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:10:50 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:10:50 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:10:53 ==> Executing Action: 23 Wait: 
+
+14:11:09 ==> Executing Action: 24 click: new button clicked
+
+14:11:11 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:11:16 ==> Executing Action: 26 click: new button clicked
+
+14:11:18 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:11:23 ==> Executing Action: 28 click: new button clicked
+
+14:11:25 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:11:31 ==> Executing Action: 30 click: new button clicked
+
+14:11:33 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:11:38 ==> Executing Action: 32 click: new button clicked
+
+14:11:40 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:11:45 ==> Executing Action: 34 click: new button clicked
+
+14:11:45 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:11:45 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:11:45 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:11:45 ==> Executing Action: 36 click: new button clicked
+
+14:11:45 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:11:45 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:11:45 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:11:45 ==> Executing Action: 38 click: new button clicked
+
+14:11:45 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:11:45 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:11:45 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:11:45 ==> Executing Action: 40 click: new button clicked
+
+14:11:45 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:11:45 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:11:45 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:11:45 ==> Executing Action: 42 click: new button clicked
+
+14:11:45 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:11:45 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:11:45 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:11:45 ==> Executing Action: 44 Click: Save Button clicked
+
+14:11:47 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:11:50 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:11:53 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:11:54 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:11:56 ==> Executing Action: 49 Click : Dropdown button clicked
+
+14:11:58 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+14:11:59 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+14:12:00 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+14:12:00 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+14:12:00 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+14:12:00 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+14:12:00 ==> Executing Action: 54 Date: Start Date Entered
+
+14:12:00 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+14:12:00 ==> Executing Action: 55 Date: End Date Entered
+
+14:12:00 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+14:12:00 ==> Executing Action: 56 Click: Save Button Clicked
+
+14:12:02 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+14:12:05 ==> Executing Action: 58 Read: Quote ID read
+
+14:12:06 ==> Executing Action: 59 Read: Premium Read
+
+14:12:07 ==> Executing Action: 60 Click: Send to Insurer
+
+14:12:23 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+14:12:26 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#RequisitionReview_SendToInsurer"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+14:12:26 ==> *************** TEST FAILED ***************
+
+14:12:26 ==>  picked up row: 2
+14:12:27 ==>  Assigning Driver: Chrome Driver
+14:12:28 ==> Executing Action: 1 URL: Went to URL
+
+14:12:34 ==> Executing Action: 2 Select: User Type Selected
+
+14:12:35 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:12:37 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:12:39 ==> Executing Action: 5 Text: User Id entered
+
+14:12:40 ==> Executing Action: 6 Text: Password Entered
+
+14:12:41 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:12:43 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:12:45 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:12:47 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:12:49 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:12:51 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:12:53 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:12:54 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:12:56 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:12:57 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:12:59 ==> Executing Action: 17 Wait: 
+
+14:13:02 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:13:04 ==> Executing Action: 19 Select: Product Selected
+
+14:13:05 ==> Executing Action: 20 Wait: 
+
+14:13:07 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:13:07 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:13:07 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:13:09 ==> Executing Action: 23 Wait: 
+
+14:13:25 ==> Executing Action: 24 click: new button clicked
+
+14:13:28 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:13:33 ==> Executing Action: 26 click: new button clicked
+
+14:13:35 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:13:40 ==> Executing Action: 28 click: new button clicked
+
+14:13:42 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:13:47 ==> Executing Action: 30 click: new button clicked
+
+14:13:50 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:13:55 ==> Executing Action: 32 click: new button clicked
+
+14:13:57 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:14:02 ==> Executing Action: 34 click: new button clicked
+
+14:14:02 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:14:02 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:14:02 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:14:02 ==> Executing Action: 36 click: new button clicked
+
+14:14:02 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:14:02 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:14:02 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:14:02 ==> Executing Action: 38 click: new button clicked
+
+14:14:02 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:14:02 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:14:02 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:14:02 ==> Executing Action: 40 click: new button clicked
+
+14:14:02 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:14:02 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:14:02 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:14:02 ==> Executing Action: 42 click: new button clicked
+
+14:14:02 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:14:02 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:14:02 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:14:02 ==> Executing Action: 44 Click: Save Button clicked
+
+14:14:04 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:14:07 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:14:09 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:14:11 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:14:13 ==> Executing Action: 49 Click : Dropdown button clicked
+
+14:14:13 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+14:14:13 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+14:14:13 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+14:14:13 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+14:14:14 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+14:14:14 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+14:14:14 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+14:14:14 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+14:14:14 ==> Executing Action: 54 Date: Start Date Entered
+
+14:14:14 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+14:14:14 ==> Executing Action: 55 Date: End Date Entered
+
+14:14:14 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+14:14:14 ==> Executing Action: 56 Click: Save Button Clicked
+
+14:14:16 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+14:14:18 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-fsh-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+14:14:22 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-fsh-c309="" type="submit" id="requisitionTab_generateQuoteSlip" class="btn btn-lg btn btn-success">...</button> is not clickable at point (1459, 103). Other element would receive the click: <div class="p-toast-detail ng-tns-c87-73">...</div>
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 296
+14:14:22 ==> *************** TEST FAILED ***************
+
+14:14:22 ==>  picked up row: 3
+14:14:22 ==>  Assigning Driver: Chrome Driver
+14:14:24 ==> Executing Action: 1 URL: Went to URL
+
+14:14:30 ==> Executing Action: 2 Select: User Type Selected
+
+14:14:31 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:14:33 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:14:34 ==> Executing Action: 5 Text: User Id entered
+
+14:14:35 ==> Executing Action: 6 Text: Password Entered
+
+14:14:37 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:14:39 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:14:41 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:14:43 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:14:45 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:14:47 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:14:49 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:14:50 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:14:52 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:14:53 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:14:55 ==> Executing Action: 17 Wait: 
+
+14:14:58 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:14:59 ==> Executing Action: 19 Select: Product Selected
+
+14:15:01 ==> Executing Action: 20 Wait: 
+
+14:15:03 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:15:03 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:15:03 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:15:05 ==> Executing Action: 23 Wait: 
+
+14:15:21 ==> Executing Action: 24 click: new button clicked
+
+14:15:23 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:15:29 ==> Executing Action: 26 click: new button clicked
+
+14:15:31 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:15:36 ==> Executing Action: 28 click: new button clicked
+
+14:15:38 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:15:43 ==> Executing Action: 30 click: new button clicked
+
+14:15:45 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:15:51 ==> Executing Action: 32 click: new button clicked
+
+14:15:53 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:15:58 ==> Executing Action: 34 click: new button clicked
+
+14:15:58 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:15:58 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:15:58 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:15:58 ==> Executing Action: 36 click: new button clicked
+
+14:15:58 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:15:58 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:15:58 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:15:58 ==> Executing Action: 38 click: new button clicked
+
+14:15:58 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:15:58 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:15:58 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:15:58 ==> Executing Action: 40 click: new button clicked
+
+14:15:58 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:15:58 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:15:58 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:15:58 ==> Executing Action: 42 click: new button clicked
+
+14:15:58 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:15:58 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:15:58 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:15:58 ==> Executing Action: 44 Click: Save Button clicked
+
+14:16:00 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:16:03 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:16:05 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:16:06 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:16:09 ==> Executing Action: 49 Click : Dropdown button clicked
+
+14:16:09 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+14:16:09 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+14:16:09 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+14:16:09 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+14:16:10 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+14:16:11 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+14:16:12 ==> Executing Action: 54 Date: Start Date Entered
+
+14:16:13 ==> Executing Action: 55 Date: End Date Entered
+
+14:16:14 ==> Executing Action: 56 Click: Save Button Clicked
+
+14:17:14 ==> DataBase Connection Established successfully
+14:17:14 ==> *** BOT IS ACTIVATED ***
+14:17:15 ==>  Started Processing... 
+14:17:15 ==>  picked up data file: WorkmenData.xlsx
+14:17:15 ==>  Picked up Action JSON of Project: WORKMEN
+14:17:16 ==>  Sheet name: TestData
+14:17:16 ==>  picked up row: 1
+14:17:16 ==>  Assigning Driver: Chrome Driver
+14:17:18 ==> Executing Action: 1 URL: Went to URL
+
+14:17:24 ==> Executing Action: 2 Select: User Type Selected
+
+14:17:25 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:17:27 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:17:28 ==> Executing Action: 5 Text: User Id entered
+
+14:17:29 ==> Executing Action: 6 Text: Password Entered
+
+14:17:30 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:17:33 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:17:35 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:17:37 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:17:39 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:17:40 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:17:42 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:17:43 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:17:45 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:17:47 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:17:49 ==> Executing Action: 17 Wait: 
+
+14:17:52 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:17:53 ==> Executing Action: 19 Select: Product Selected
+
+14:17:55 ==> Executing Action: 20 Wait: 
+
+14:17:57 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:17:57 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:17:57 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:17:59 ==> Executing Action: 23 Wait: 
+
+14:18:15 ==> Executing Action: 24 click: new button clicked
+
+14:18:17 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:18:22 ==> Executing Action: 26 click: new button clicked
+
+14:18:24 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:18:29 ==> Executing Action: 28 click: new button clicked
+
+14:18:32 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:18:37 ==> Executing Action: 30 click: new button clicked
+
+14:18:39 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:18:44 ==> Executing Action: 32 click: new button clicked
+
+14:18:46 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:18:51 ==> Executing Action: 34 click: new button clicked
+
+14:18:51 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:18:51 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:18:51 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:18:51 ==> Executing Action: 36 click: new button clicked
+
+14:18:51 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:18:51 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:18:51 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:18:51 ==> Executing Action: 38 click: new button clicked
+
+14:18:51 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:18:51 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:18:51 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:18:51 ==> Executing Action: 40 click: new button clicked
+
+14:18:51 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:18:51 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:18:51 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:18:51 ==> Executing Action: 42 click: new button clicked
+
+14:18:51 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:18:51 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:18:51 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:18:51 ==> Executing Action: 44 Click: Save Button clicked
+
+14:18:56 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:19:00 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:19:04 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:19:05 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:20:21 ==> DataBase Connection Established successfully
+14:20:21 ==> *** BOT IS ACTIVATED ***
+14:20:22 ==>  Started Processing... 
+14:20:22 ==>  picked up data file: WorkmenData.xlsx
+14:20:22 ==>  Picked up Action JSON of Project: WORKMEN
+14:20:23 ==>  Sheet name: TestData
+14:20:23 ==>  picked up row: 1
+14:20:23 ==>  Assigning Driver: Chrome Driver
+14:20:25 ==> Executing Action: 1 URL: Went to URL
+
+14:20:31 ==> Executing Action: 2 Select: User Type Selected
+
+14:20:32 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:20:34 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:20:35 ==> Executing Action: 5 Text: User Id entered
+
+14:20:36 ==> Executing Action: 6 Text: Password Entered
+
+14:20:37 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:20:40 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:20:42 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:20:44 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:20:46 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:20:47 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:20:49 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:20:51 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:20:53 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:20:54 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:20:56 ==> Executing Action: 17 Wait: 
+
+14:20:59 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:21:00 ==> Executing Action: 19 Select: Product Selected
+
+14:21:02 ==> Executing Action: 20 Wait: 
+
+14:21:04 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:21:04 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:21:04 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:21:06 ==> Executing Action: 23 Wait: 
+
+14:21:22 ==> Executing Action: 24 click: new button clicked
+
+14:21:24 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:21:29 ==> Executing Action: 26 click: new button clicked
+
+14:21:31 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:21:36 ==> Executing Action: 28 click: new button clicked
+
+14:21:39 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:21:44 ==> Executing Action: 30 click: new button clicked
+
+14:21:49 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:21:54 ==> Executing Action: 32 click: new button clicked
+
+14:21:58 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:22:03 ==> Executing Action: 34 click: new button clicked
+
+14:22:03 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:22:03 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:22:03 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:22:03 ==> Executing Action: 36 click: new button clicked
+
+14:22:03 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:22:03 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:22:03 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:22:03 ==> Executing Action: 38 click: new button clicked
+
+14:22:03 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:22:03 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:22:03 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:22:03 ==> Executing Action: 40 click: new button clicked
+
+14:22:03 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:22:03 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:22:03 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:22:03 ==> Executing Action: 42 click: new button clicked
+
+14:22:03 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:22:03 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:22:03 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:22:03 ==> Executing Action: 44 Click: Save Button clicked
+
+14:22:21 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:22:29 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:22:38 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:22:39 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:26:50 ==> DataBase Connection Established successfully
+14:26:50 ==> *** BOT IS ACTIVATED ***
+14:26:51 ==>  Started Processing... 
+14:26:51 ==>  picked up data file: WorkmenData.xlsx
+14:26:51 ==>  Picked up Action JSON of Project: WORKMEN
+14:26:53 ==>  Sheet name: TestData
+14:26:53 ==>  picked up row: 1
+14:26:53 ==>  Assigning Driver: Chrome Driver
+14:26:55 ==> Executing Action: 1 URL: Went to URL
+
+14:27:00 ==> Executing Action: 2 Select: User Type Selected
+
+14:27:02 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:27:10 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:27:11 ==> Executing Action: 5 Text: User Id entered
+
+14:27:12 ==> Executing Action: 6 Text: Password Entered
+
+14:27:13 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:27:16 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:27:18 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:27:20 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:27:22 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:27:23 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:27:25 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:27:27 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:27:29 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:27:30 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:27:32 ==> Executing Action: 17 Wait: 
+
+14:27:35 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:27:36 ==> Executing Action: 19 Select: Product Selected
+
+14:27:38 ==> Executing Action: 20 Wait: 
+
+14:27:40 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:27:40 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:27:40 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:27:42 ==> Executing Action: 23 Wait: 
+
+14:27:58 ==> Executing Action: 24 click: new button clicked
+
+14:28:00 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:28:05 ==> Executing Action: 26 click: new button clicked
+
+14:28:07 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:28:13 ==> Executing Action: 28 click: new button clicked
+
+14:28:15 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:28:20 ==> Executing Action: 30 click: new button clicked
+
+14:28:22 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:28:27 ==> Executing Action: 32 click: new button clicked
+
+14:28:29 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:28:34 ==> Executing Action: 34 click: new button clicked
+
+14:28:34 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:28:34 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:28:34 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:28:34 ==> Executing Action: 36 click: new button clicked
+
+14:28:34 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:28:34 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:28:34 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:28:35 ==> Executing Action: 38 click: new button clicked
+
+14:28:35 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:28:35 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:28:35 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:28:35 ==> Executing Action: 40 click: new button clicked
+
+14:28:35 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:28:35 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:28:35 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:28:35 ==> Executing Action: 42 click: new button clicked
+
+14:28:35 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:28:35 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:28:35 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:28:35 ==> Executing Action: 44 Click: Save Button clicked
+
+14:28:37 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:28:40 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:28:42 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:28:43 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:28:58 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="requisitionTabs_WMcoveragesDetails"]/div/div/div/div[1]/p-card[2]/div/div/div/div/ul/div[5]/p-checkbox/div/div[2]"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+14:29:02 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="requisitionTabs_WMcoveragesDetails"]/div/div/div/div[1]/p-card[2]/div/div/div/div/ul/div[5]/p-checkbox/div/div[2]"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+14:29:02 ==> *************** TEST FAILED ***************
+
+14:29:02 ==>  picked up row: 2
+14:29:02 ==>  Assigning Driver: Chrome Driver
+14:29:04 ==> Executing Action: 1 URL: Went to URL
+
+14:29:10 ==> Executing Action: 2 Select: User Type Selected
+
+14:29:11 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:29:13 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:29:14 ==> Executing Action: 5 Text: User Id entered
+
+14:29:16 ==> Executing Action: 6 Text: Password Entered
+
+14:29:17 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:29:19 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:29:21 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:29:23 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:29:25 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:29:26 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:29:29 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:29:30 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:29:32 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:29:33 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:29:35 ==> Executing Action: 17 Wait: 
+
+14:29:38 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:29:39 ==> Executing Action: 19 Select: Product Selected
+
+14:29:41 ==> Executing Action: 20 Wait: 
+
+14:29:43 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:29:43 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:29:43 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:29:45 ==> Executing Action: 23 Wait: 
+
+14:30:01 ==> Executing Action: 24 click: new button clicked
+
+14:30:03 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:30:09 ==> Executing Action: 26 click: new button clicked
+
+14:30:11 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:30:16 ==> Executing Action: 28 click: new button clicked
+
+14:30:18 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:30:23 ==> Executing Action: 30 click: new button clicked
+
+14:30:25 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:57:08 ==> DataBase Connection Established successfully
+14:57:08 ==> *** BOT IS ACTIVATED ***
+14:57:09 ==>  Started Processing... 
+14:57:09 ==>  picked up data file: WorkmenData.xlsx
+14:57:09 ==>  Picked up Action JSON of Project: WORKMEN
+14:57:10 ==>  Sheet name: TestData
+14:57:10 ==>  picked up row: 1
+14:57:10 ==>  Assigning Driver: Chrome Driver
+14:57:12 ==> Executing Action: 1 URL: Went to URL
+
+14:57:18 ==> Executing Action: 2 Select: User Type Selected
+
+14:57:19 ==> Executing Action: 3 Click: Dropdown button clicked
+
+14:57:21 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+14:57:22 ==> Executing Action: 5 Text: User Id entered
+
+14:57:23 ==> Executing Action: 6 Text: Password Entered
+
+14:57:25 ==> Executing Action: 7 Click: Login Button Clicked
+
+14:57:27 ==> Executing Action: 8 forceclick: Close button clicked
+
+14:57:29 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+14:57:31 ==> Executing Action: 10 Click: sector dropdown clicked
+
+14:57:33 ==> Executing Action: 11 Dropdown: Sector Selected
+
+14:57:34 ==> Executing Action: 12 Click: Dropdown button clicked
+
+14:57:36 ==> Executing Action: 13 Dropdown: Client Selected 
+
+14:57:38 ==> Executing Action: 14 Click: Dropdown button clicked
+
+14:57:40 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+14:57:41 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+14:57:43 ==> Executing Action: 17 Wait: 
+
+14:57:46 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+14:57:47 ==> Executing Action: 19 Select: Product Selected
+
+14:57:49 ==> Executing Action: 20 Wait: 
+
+14:57:51 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+14:57:51 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+14:57:51 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+14:57:53 ==> Executing Action: 23 Wait: 
+
+14:58:09 ==> Executing Action: 24 click: new button clicked
+
+14:58:11 ==> Executing Action: 25 employeetabledata: enter the record one
+
+14:58:16 ==> Executing Action: 26 click: new button clicked
+
+14:58:18 ==> Executing Action: 27 employeetabledata: enter the record two
+
+14:58:24 ==> Executing Action: 28 click: new button clicked
+
+14:58:26 ==> Executing Action: 29 employeetabledata: enter the record three
+
+14:58:31 ==> Executing Action: 30 click: new button clicked
+
+14:58:33 ==> Executing Action: 31 employeetabledata: enter the record four
+
+14:58:38 ==> Executing Action: 32 click: new button clicked
+
+14:58:41 ==> Executing Action: 33 employeetabledata: enter the record one
+
+14:58:46 ==> Executing Action: 34 click: new button clicked
+
+14:58:46 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+14:58:46 ==> Executing Action: 35 employeetabledata: enter the record two
+
+14:58:46 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+14:58:46 ==> Executing Action: 36 click: new button clicked
+
+14:58:46 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+14:58:46 ==> Executing Action: 37 employeetabledata: enter the record three
+
+14:58:46 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+14:58:46 ==> Executing Action: 38 click: new button clicked
+
+14:58:46 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+14:58:46 ==> Executing Action: 39 employeetabledata: enter the record four
+
+14:58:46 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+14:58:46 ==> Executing Action: 40 click: new button clicked
+
+14:58:46 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+14:58:46 ==> Executing Action: 41 employeetabledata: enter the record three
+
+14:58:46 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+14:58:46 ==> Executing Action: 42 click: new button clicked
+
+14:58:46 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+14:58:46 ==> Executing Action: 43 employeetabledata: enter the record four
+
+14:58:46 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+14:58:46 ==> Executing Action: 44 Click: Save Button clicked
+
+14:58:48 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+14:58:51 ==> Executing Action: 46 Click : Dropdown button clicked
+
+14:58:53 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+14:58:54 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+14:59:09 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="requisitionTabs_WMcoveragesDetails"]/div/div/div/div[1]/p-card[2]/div/div/div/div/ul/div[5]/p-checkbox/div/div[2]"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+14:59:13 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="requisitionTabs_WMcoveragesDetails"]/div/div/div/div[1]/p-card[2]/div/div/div/div/ul/div[5]/p-checkbox/div/div[2]"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+14:59:13 ==> *************** TEST FAILED ***************
+
+14:59:13 ==>  picked up row: 2
+14:59:13 ==>  Assigning Driver: Chrome Driver
+14:59:15 ==> Executing Action: 1 URL: Went to URL
+
+15:02:29 ==> DataBase Connection Established successfully
+15:02:29 ==> *** BOT IS ACTIVATED ***
+15:02:29 ==>  Started Processing... 
+15:02:29 ==>  picked up data file: WorkmenData.xlsx
+15:02:29 ==>  Picked up Action JSON of Project: WORKMEN
+15:02:30 ==>  Sheet name: TestData
+15:02:31 ==>  picked up row: 1
+15:02:31 ==>  Assigning Driver: Chrome Driver
+15:02:32 ==> Executing Action: 1 URL: Went to URL
+
+15:02:38 ==> Executing Action: 2 Select: User Type Selected
+
+15:02:39 ==> Executing Action: 3 Click: Dropdown button clicked
+
+15:02:41 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+15:02:43 ==> Executing Action: 5 Text: User Id entered
+
+15:02:44 ==> Executing Action: 6 Text: Password Entered
+
+15:02:45 ==> Executing Action: 7 Click: Login Button Clicked
+
+15:02:48 ==> Executing Action: 8 forceclick: Close button clicked
+
+15:02:51 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+15:02:53 ==> Executing Action: 10 Click: sector dropdown clicked
+
+15:02:55 ==> Executing Action: 11 Dropdown: Sector Selected
+
+15:02:56 ==> Executing Action: 12 Click: Dropdown button clicked
+
+15:02:59 ==> Executing Action: 13 Dropdown: Client Selected 
+
+15:03:00 ==> Executing Action: 14 Click: Dropdown button clicked
+
+15:03:02 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+15:03:03 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+15:03:05 ==> Executing Action: 17 Wait: 
+
+15:03:08 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+15:03:09 ==> Executing Action: 19 Select: Product Selected
+
+15:03:11 ==> Executing Action: 20 Wait: 
+
+15:03:13 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+15:03:13 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+15:03:13 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+15:03:15 ==> Executing Action: 23 Wait: 
+
+15:03:31 ==> Executing Action: 24 click: new button clicked
+
+15:03:33 ==> Executing Action: 25 employeetabledata: enter the record one
+
+15:03:38 ==> Executing Action: 26 click: new button clicked
+
+15:03:40 ==> Executing Action: 27 employeetabledata: enter the record two
+
+15:03:46 ==> Executing Action: 28 click: new button clicked
+
+15:03:48 ==> Executing Action: 29 employeetabledata: enter the record three
+
+15:03:53 ==> Executing Action: 30 click: new button clicked
+
+15:03:55 ==> Executing Action: 31 employeetabledata: enter the record four
+
+15:04:00 ==> Executing Action: 32 click: new button clicked
+
+15:04:03 ==> Executing Action: 33 employeetabledata: enter the record one
+
+15:04:08 ==> Executing Action: 34 click: new button clicked
+
+15:04:08 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+15:04:08 ==> Executing Action: 35 employeetabledata: enter the record two
+
+15:04:08 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+15:04:08 ==> Executing Action: 36 click: new button clicked
+
+15:04:08 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+15:04:08 ==> Executing Action: 37 employeetabledata: enter the record three
+
+15:04:08 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+15:04:08 ==> Executing Action: 38 click: new button clicked
+
+15:04:08 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+15:04:08 ==> Executing Action: 39 employeetabledata: enter the record four
+
+15:04:08 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+15:04:08 ==> Executing Action: 40 click: new button clicked
+
+15:04:08 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+15:04:08 ==> Executing Action: 41 employeetabledata: enter the record three
+
+15:04:08 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+15:04:08 ==> Executing Action: 42 click: new button clicked
+
+15:04:08 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+15:04:08 ==> Executing Action: 43 employeetabledata: enter the record four
+
+15:04:08 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+15:04:08 ==> Executing Action: 44 Click: Save Button clicked
+
+15:04:10 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+15:04:13 ==> Executing Action: 46 Click : Dropdown button clicked
+
+15:04:15 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+15:04:16 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+15:04:18 ==> Executing Action: 49 Click : Dropdown button clicked
+
+15:04:18 ==> Executing Action: 49 Click : The Action Click  was skipped because data was not present in Amount Column
+
+15:04:18 ==> Executing Action: 50 Dropdown: Dropdown value selected 
+
+15:04:18 ==> Executing Action: 50 Dropdown: The Action Dropdown was skipped because data was not present in Amount Column
+
+15:04:18 ==> Executing Action: 51 clearandenter: Dicount Enter
+
+15:04:20 ==> Executing Action: 52 clearandenter: Previous Company Name Entered
+
+15:04:20 ==> Executing Action: 52 clearandenter: The Action clearandenter was skipped because data was not present in PreviousCompany Column
+
+15:04:20 ==> Executing Action: 53 clearandenter: Previous Policy Name Entered
+
+15:04:20 ==> Executing Action: 53 clearandenter: The Action clearandenter was skipped because data was not present in PreviousPolicyNo Column
+
+15:04:20 ==> Executing Action: 54 Date: Start Date Entered
+
+15:04:20 ==> Executing Action: 54 Date: The Action Date was skipped because data was not present in StartDate Column
+
+15:04:20 ==> Executing Action: 55 Date: End Date Entered
+
+15:04:20 ==> Executing Action: 55 Date: The Action Date was skipped because data was not present in EndDate Column
+
+15:04:20 ==> Executing Action: 56 Click: Save Button Clicked
+
+15:04:22 ==> Executing Action: 57 Click: Generate Quote slip button clicked
+
+15:04:24 ==> Executing Action: 58 Read: Quote ID read
+
+15:04:26 ==> Executing Action: 59 Read: Premium Read
+
+15:04:27 ==> Executing Action: 60 Click: Send to Insurer
+
+15:04:29 ==> *************** TEST PASSED ***************
+
+15:04:29 ==>  picked up row: 2
+15:04:29 ==>  Assigning Driver: Chrome Driver
+15:04:31 ==> Executing Action: 1 URL: Went to URL
+
+15:04:37 ==> Executing Action: 2 Select: User Type Selected
+
+15:04:38 ==> Executing Action: 3 Click: Dropdown button clicked
+
+15:04:40 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+15:04:41 ==> Executing Action: 5 Text: User Id entered
+
+15:04:42 ==> Executing Action: 6 Text: Password Entered
+
+15:04:44 ==> Executing Action: 7 Click: Login Button Clicked
+
+15:04:46 ==> Executing Action: 8 forceclick: Close button clicked
+
+15:04:48 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+15:04:50 ==> Executing Action: 10 Click: sector dropdown clicked
+
+15:04:52 ==> Executing Action: 11 Dropdown: Sector Selected
+
+15:04:53 ==> Executing Action: 12 Click: Dropdown button clicked
+
+15:04:56 ==> Executing Action: 13 Dropdown: Client Selected 
+
+15:04:57 ==> Executing Action: 14 Click: Dropdown button clicked
+
+15:04:59 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+15:05:00 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+15:05:02 ==> Executing Action: 17 Wait: 
+
+15:05:05 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+15:05:06 ==> Executing Action: 19 Select: Product Selected
+
+15:05:08 ==> Executing Action: 20 Wait: 
+
+15:05:10 ==> Executing Action: 21 Upload: Rate Excel File uploaded
+
+15:05:10 ==> Executing Action: 21 Upload: The Action Upload was skipped because data was not present in RateExcelUpload Column
+
+15:05:10 ==> Executing Action: 22 Click: Generate Indicative Quote
+
+15:05:12 ==> Executing Action: 23 Wait: 
+
+15:05:28 ==> Executing Action: 24 click: new button clicked
+
+15:05:30 ==> Executing Action: 25 employeetabledata: enter the record one
+
+15:05:31 ==> Executing Action: 26 click: new button clicked
+
+15:05:34 ==> Executing Action: 27 employeetabledata: enter the record two
+
+15:05:35 ==> Executing Action: 28 click: new button clicked
+
+15:05:37 ==> Executing Action: 29 employeetabledata: enter the record three
+
+15:05:38 ==> Executing Action: 30 click: new button clicked
+
+15:05:40 ==> Executing Action: 31 employeetabledata: enter the record four
+
+15:05:41 ==> Executing Action: 32 click: new button clicked
+
+15:05:43 ==> Executing Action: 33 employeetabledata: enter the record one
+
+15:05:44 ==> Executing Action: 34 click: new button clicked
+
+15:05:44 ==> Executing Action: 34 click: The Action click was skipped because data was not present in RecordSix Column
+
+15:05:44 ==> Executing Action: 35 employeetabledata: enter the record two
+
+15:05:44 ==> Executing Action: 35 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSix Column
+
+15:05:44 ==> Executing Action: 36 click: new button clicked
+
+15:05:44 ==> Executing Action: 36 click: The Action click was skipped because data was not present in RecordSeven Column
+
+15:05:44 ==> Executing Action: 37 employeetabledata: enter the record three
+
+15:05:44 ==> Executing Action: 37 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordSeven Column
+
+15:05:44 ==> Executing Action: 38 click: new button clicked
+
+15:05:44 ==> Executing Action: 38 click: The Action click was skipped because data was not present in RecordEight Column
+
+15:05:44 ==> Executing Action: 39 employeetabledata: enter the record four
+
+15:05:44 ==> Executing Action: 39 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordEight Column
+
+15:05:44 ==> Executing Action: 40 click: new button clicked
+
+15:05:44 ==> Executing Action: 40 click: The Action click was skipped because data was not present in RecordNine Column
+
+15:05:44 ==> Executing Action: 41 employeetabledata: enter the record three
+
+15:05:44 ==> Executing Action: 41 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordNine Column
+
+15:05:44 ==> Executing Action: 42 click: new button clicked
+
+15:05:44 ==> Executing Action: 42 click: The Action click was skipped because data was not present in RecordTen Column
+
+15:05:44 ==> Executing Action: 43 employeetabledata: enter the record four
+
+15:05:44 ==> Executing Action: 43 employeetabledata: The Action employeetabledata was skipped because data was not present in RecordTen Column
+
+15:05:44 ==> Executing Action: 44 Click: Save Button clicked
+
+15:05:46 ==> Executing Action: 45 Click: Additional Covers Tab opened
+
+15:05:49 ==> Executing Action: 46 Click : Dropdown button clicked
+
+15:05:51 ==> Executing Action: 47 Dropdown: Dropdown value selected 
+
+15:05:52 ==> Executing Action: 48 Click: Auctual checkbox clicked
+
+15:06:07 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="requisitionTabs_WMcoveragesDetails"]/div/div/div/div[1]/p-card[2]/div/div/div/div/ul/div[5]/p-checkbox/div/div[2]"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+15:06:11 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="requisitionTabs_WMcoveragesDetails"]/div/div/div/div[1]/p-card[2]/div/div/div/div/ul/div[5]/p-checkbox/div/div[2]"}
+  (Session info: chrome=123.0.6312.122); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 290
+15:06:11 ==> *************** TEST FAILED ***************
+
+15:06:11 ==>  picked up row: 3
+15:06:11 ==>  Assigning Driver: Chrome Driver
+15:06:12 ==> Executing Action: 1 URL: Went to URL
+
+15:06:18 ==> Executing Action: 2 Select: User Type Selected
+
+15:06:19 ==> Executing Action: 3 Click: Dropdown button clicked
+
+15:06:21 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+15:06:23 ==> Executing Action: 5 Text: User Id entered
+
+15:06:24 ==> Executing Action: 6 Text: Password Entered
+
+15:06:25 ==> Executing Action: 7 Click: Login Button Clicked
+
+15:06:27 ==> Executing Action: 8 forceclick: Close button clicked
+
+15:06:29 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+15:06:32 ==> Executing Action: 10 Click: sector dropdown clicked
+
+15:06:34 ==> Executing Action: 11 Dropdown: Sector Selected
+
+15:06:35 ==> Executing Action: 12 Click: Dropdown button clicked
+
+15:06:37 ==> Executing Action: 13 Dropdown: Client Selected 
+
+15:06:38 ==> Executing Action: 14 Click: Dropdown button clicked
+
+15:06:40 ==> Executing Action: 15 Dropdown: Quote Type Selected
+
+15:06:42 ==> Executing Action: 16 Click: Create Quote Button Clicked
+
+15:06:44 ==> Executing Action: 17 Wait: 
+
+15:06:47 ==> Executing Action: 18 Select: Category dropdown button clicked
+
+15:06:47 ==> OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 665
+15:06:47 ==>  Error in Action: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.122)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionSelect(ActionModel itemAction, String textValue, String& exception, IWebDriver driver) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 665
+15:06:47 ==> *************** TEST FAILED ***************
+

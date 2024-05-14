@@ -1,0 +1,16 @@
+Auto IT is very important for automationg desktop windows so indirectly it helps in performing Upload actions
+
+Below are the steps for proper installation :
+
+1) double click on autoit-v3-setup.exe 
+2) click on Next
+3) click on I Agree
+4) select (use native 64 tools by default)
+5) click on Next
+6) select on (Run the Script)
+7) click on Next
+8) click on Next
+9) deselect checkbox
+10) click on Install
+
+Thats it !! 

@@ -1,0 +1,28 @@
+
+/****** Object:  Table [dbo].[ProjectManager]    Script Date: 27-09-2023 12:31:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[ProjectManager](
+	[projectId] [int] IDENTITY(1,1) NOT NULL,
+	[projectName] [varchar](max) NULL,
+	[actionFileJson] [varchar](max) NULL,
+	[inputFilePath] [nvarchar](500) NULL,
+ CONSTRAINT [PK_ProjectManager] PRIMARY KEY CLUSTERED 
+(
+	[projectId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[ProjectManager]  WITH CHECK ADD  CONSTRAINT [FK_ProjectManager_ProjectManager] FOREIGN KEY([projectId])
+REFERENCES [dbo].[ProjectManager] ([projectId])
+GO
+
+ALTER TABLE [dbo].[ProjectManager] CHECK CONSTRAINT [FK_ProjectManager_ProjectManager]
+GO
+
+

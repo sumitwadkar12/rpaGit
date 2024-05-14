@@ -1,0 +1,567 @@
+11:40:12 ==> DataBase Connection Established successfully
+11:40:12 ==> *** BOT IS ACTIVATED ***
+11:40:13 ==>  Started Processing... 
+11:40:13 ==>  picked up data file: WorkmenData.xlsx
+11:40:13 ==>  Picked up Action JSON of Project: WC
+11:40:16 ==>  Sheet name: TestData
+11:40:16 ==>  picked up row: 1
+11:40:16 ==>  Assigning Driver: Chrome Driver
+11:40:18 ==> Executing Action: 1 URL: Went to URL
+
+11:40:24 ==> Executing Action: 2 Select: User Type Selected
+
+11:40:25 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:40:27 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:40:28 ==> Executing Action: 5 Text: User Id entered
+
+11:40:29 ==> Executing Action: 6 Text: Password Entered
+
+11:40:31 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:40:33 ==> Executing Action: 8 forceclick: Close button clicked
+
+11:40:35 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:40:51 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:40:54 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:40:54 ==> *************** TEST FAILED ***************
+
+11:40:54 ==>  picked up row: 2
+11:40:54 ==>  Assigning Driver: Chrome Driver
+11:40:55 ==> Executing Action: 1 URL: Went to URL
+
+11:41:01 ==> Executing Action: 2 Select: User Type Selected
+
+11:41:02 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:41:04 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:41:05 ==> Executing Action: 5 Text: User Id entered
+
+11:41:07 ==> Executing Action: 6 Text: Password Entered
+
+11:41:08 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:41:10 ==> Executing Action: 8 forceclick: Close button clicked
+
+11:41:12 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:41:27 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:41:31 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:41:31 ==> *************** TEST FAILED ***************
+
+11:41:31 ==>  picked up row: 3
+11:41:31 ==>  Assigning Driver: Chrome Driver
+11:41:32 ==> Executing Action: 1 URL: Went to URL
+
+11:41:38 ==> Executing Action: 2 Select: User Type Selected
+
+11:41:39 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:41:41 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:41:42 ==> Executing Action: 5 Text: User Id entered
+
+11:41:43 ==> Executing Action: 6 Text: Password Entered
+
+11:41:44 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:41:47 ==> Executing Action: 8 forceclick: Close button clicked
+
+11:41:49 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:42:04 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:42:07 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:42:07 ==> *************** TEST FAILED ***************
+
+11:42:08 ==>  Started Processing... 
+11:42:08 ==>  picked up data file: AllCoverOTCflow.xlsx
+11:42:08 ==>  Picked up Action JSON of Project: SHOP
+11:42:08 ==>  Sheet name: TestData
+11:42:08 ==>  picked up row: 1
+11:42:08 ==>  Assigning Driver: Chrome Driver
+11:42:09 ==> Executing Action: 1 URL: Went to URL
+
+11:42:15 ==> Executing Action: 2 Select: User Type Selected
+
+11:42:16 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:42:19 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:42:20 ==> Executing Action: 5 Text: User Id entered
+
+11:42:21 ==> Executing Action: 6 Text: Password Entered
+
+11:42:22 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:42:24 ==> Executing Action: 8 forceclick: Close button clicked
+
+11:42:26 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:42:42 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:42:45 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:42:45 ==> *************** TEST FAILED ***************
+
+11:42:45 ==>  Started Processing... 
+11:42:45 ==>  picked up data file: PREPOD_Fire_Data.xlsx
+11:42:45 ==>  Picked up Action JSON of Project: FIRE
+11:42:45 ==>  Sheet name: TestData
+11:42:45 ==>  picked up row: 1
+11:42:45 ==>  Assigning Driver: Chrome Driver
+11:42:47 ==> Executing Action: 1 URL: Went to URL
+
+11:42:53 ==> Executing Action: 2 Select: User Type Selected
+
+11:42:54 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:42:56 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:42:57 ==> Executing Action: 5 Text: User Id entered
+
+11:42:58 ==> Executing Action: 6 Text: Password Entered
+
+11:42:59 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:43:01 ==> Executing Action: 8 Forceclick: Close button clicked
+
+11:43:03 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+11:43:19 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:43:22 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:43:22 ==> *************** TEST FAILED ***************
+
+11:43:22 ==>  Started Processing... 
+11:43:22 ==>  picked up data file: Prepod_IAR_Data.xlsx
+11:43:22 ==>  Picked up Action JSON of Project: IAR
+11:43:22 ==>  Sheet name: TestData
+11:43:22 ==>  picked up row: 1
+11:43:22 ==>  Assigning Driver: Chrome Driver
+11:43:23 ==> Executing Action: 1 URL: Went to URL
+
+11:43:29 ==> Executing Action: 2 Select: User Type Selected
+
+11:43:30 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:43:32 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:43:33 ==> Executing Action: 5 Text: User Id entered
+
+11:43:34 ==> Executing Action: 6 Text: Password Entered
+
+11:43:35 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:43:37 ==> Executing Action: 8 Forceclick: Close button clicked
+
+11:43:39 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:43:55 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:43:58 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:43:58 ==> *************** TEST FAILED ***************
+
+11:43:58 ==>  Started Processing... 
+11:43:58 ==>  picked up data file: Suraksha Laghu Data.xlsx
+11:43:58 ==>  Picked up Action JSON of Project: SURAKSHA
+11:43:58 ==>  Sheet name: TestData
+11:43:58 ==>  picked up row: 1
+11:43:58 ==>  Assigning Driver: Chrome Driver
+11:43:59 ==> Executing Action: 1 URL: Went to URL
+
+11:44:05 ==> Executing Action: 2 Select: User Type Selected
+
+11:44:06 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:44:09 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:44:10 ==> Executing Action: 5 Text: User Id entered
+
+11:44:11 ==> Executing Action: 6 Text: Password Entered
+
+11:44:12 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:44:14 ==> Executing Action: 8 forceclick: Close button clicked
+
+11:44:16 ==> Executing Action: 9 Click: Add Quote Button Clicked
+
+11:44:31 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:44:34 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Main_LayOut"]/div/div/app-dashboard/div/div/div/app-broker-dashboard/section/div[1]/div[2]/div/button"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:44:34 ==> *************** TEST FAILED ***************
+
+11:44:35 ==>  Started Processing... 
+11:44:35 ==>  picked up data file: UAT_Sukshma_Data.xlsx
+11:44:35 ==>  Picked up Action JSON of Project: SUKSHMA
+11:44:35 ==>  Sheet name: TestData
+11:44:35 ==>  picked up row: 1
+11:44:35 ==>  Assigning Driver: Chrome Driver
+11:44:36 ==> Executing Action: 1 URL: Went to URL
+
+11:44:39 ==> Executing Action: 2 Select: User Type Selected
+
+11:44:40 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:44:42 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:44:44 ==> Executing Action: 5 Text: User Id entered
+
+11:44:45 ==> Executing Action: 6 Text: Password Entered
+
+11:44:46 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:44:48 ==> Executing Action: 8 Forceclick: Close button clicked
+
+11:44:50 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+11:44:52 ==> Executing Action: 10 Click: Sector dropdown clicked
+
+11:44:54 ==> Executing Action: 11 Dropdown: Sector Selected
+
+11:44:55 ==> Executing Action: 12 Click: Dropdown button clicked
+
+11:44:57 ==> Executing Action: 13 Dropdown: Client Selected 
+
+11:44:58 ==> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <li role="option" pripple="" class="p-ripple p-element p-autocomplete-item ng-tns-c97-16 ng-star-inserted" id="">...</li> is not clickable at point (715, 460). Other element would receive the click: <div class="ng-trigger ng-trigger-overlayAnimation ng-tns-c97-16 p-autocomplete-panel p-component ng-star-inserted" style="z-index: 1001; transform-origin: center top; top: 40px; left: 0px;">...</div>
+  (Session info: chrome=124.0.6367.93)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionDropdown(String named, String elementValue, IWebDriver driver, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 749
+11:45:02 ==>  Error in Action: OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <li role="option" pripple="" class="p-ripple p-element p-autocomplete-item ng-tns-c97-16 ng-star-inserted" id="">...</li> is not clickable at point (715, 460). Other element would receive the click: <div class="ng-trigger ng-trigger-overlayAnimation ng-tns-c97-16 p-autocomplete-panel p-component ng-star-inserted" style="z-index: 1001; transform-origin: center top; top: 40px; left: 0px;">...</div>
+  (Session info: chrome=124.0.6367.93)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at TestAutomationSuite.Utility.ActionHelper.ActionDropdown(String named, String elementValue, IWebDriver driver, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 749
+11:45:02 ==> *************** TEST FAILED ***************
+
+11:45:12 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:45:22 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:45:32 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:45:42 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:45:52 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:46:02 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:46:12 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:46:22 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:46:32 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:46:42 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:46:52 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:47:02 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:47:12 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:47:22 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:47:32 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:47:42 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:47:52 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:48:02 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:48:12 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:51:38 ==> DataBase Connection Established successfully
+11:51:38 ==> *** BOT IS ACTIVATED ***
+11:51:39 ==>  Started Processing... 
+11:51:39 ==>  picked up data file: PREPOD_Fire_Data.xlsx
+11:51:39 ==>  Picked up Action JSON of Project: FIRE
+11:51:40 ==>  Sheet name: TestData
+11:51:40 ==>  picked up row: 1
+11:51:40 ==>  Assigning Driver: Chrome Driver
+11:51:42 ==> Executing Action: 1 URL: Went to URL
+
+11:51:47 ==> Executing Action: 2 Select: User Type Selected
+
+11:51:48 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:51:51 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:51:52 ==> Executing Action: 5 Text: User Id entered
+
+11:51:53 ==> Executing Action: 6 Text: Password Entered
+
+11:51:54 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:51:56 ==> Executing Action: 8 Forceclick: Close button clicked
+
+11:51:58 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+11:52:13 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:52:16 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:52:16 ==> *************** TEST FAILED ***************
+
+11:52:27 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:52:37 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:52:47 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:52:57 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:53:07 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:53:17 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:53:27 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:53:37 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:53:47 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:53:57 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:54:07 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:54:17 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:54:27 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:54:37 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:54:47 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:54:57 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:55:07 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:55:26 ==> DataBase Connection Established successfully
+11:55:26 ==> *** BOT IS ACTIVATED ***
+11:55:26 ==>  Started Processing... 
+11:55:26 ==>  picked up data file: PREPOD_Fire_Data.xlsx
+11:55:26 ==>  Picked up Action JSON of Project: FIRE
+11:55:28 ==>  Sheet name: TestData
+11:55:28 ==>  picked up row: 1
+11:55:28 ==>  Assigning Driver: Chrome Driver
+11:55:30 ==> Executing Action: 1 URL: Went to URL
+
+11:55:35 ==> Executing Action: 2 Select: User Type Selected
+
+11:55:37 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:55:39 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:55:40 ==> Executing Action: 5 Text: User Id entered
+
+11:55:41 ==> Executing Action: 6 Text: Password Entered
+
+11:55:42 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:55:44 ==> Executing Action: 8 Forceclick: Close button clicked
+
+11:55:46 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+11:56:01 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:56:05 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:56:05 ==> *************** TEST FAILED ***************
+
+11:56:15 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:56:25 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:56:35 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:56:45 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:56:55 ==>  No .xlsx format input file is present in any of the input folders associated with projects present in Database
+11:57:05 ==>  Started Processing... 
+11:57:05 ==>  picked up data file: PREPOD_Fire_Data.xlsx
+11:57:05 ==>  Picked up Action JSON of Project: FIRE
+11:57:05 ==>  Sheet name: TestData
+11:57:05 ==>  picked up row: 1
+11:57:05 ==>  Assigning Driver: Chrome Driver
+11:57:06 ==> Executing Action: 1 URL: Went to URL
+
+11:57:12 ==> Executing Action: 2 Select: User Type Selected
+
+11:57:13 ==> Executing Action: 3 Click: Dropdown button clicked
+
+11:57:15 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+11:57:16 ==> Executing Action: 5 Text: User Id entered
+
+11:57:21 ==> Executing Action: 6 Text: Password Entered
+
+11:57:23 ==> Executing Action: 7 Click: Login Button Clicked
+
+11:57:26 ==> Executing Action: 8 Forceclick: Close button clicked
+
+11:57:27 ==> Executing Action: 9 Click: Create Quote Button Clicked
+
+11:57:43 ==> OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:57:46 ==>  Error in Action: OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#QuoteKanban_CreateTask"}
+  (Session info: chrome=124.0.6367.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at TestAutomationSuite.Utility.ActionHelper.ActionClick(String searchBy, IWebDriver driver, String elementValue, String& exception) in C:\Users\sumit\OneDrive\Desktop\rpa\TestAuto\TestAutomationSuite\Utility\ActionHelper.cs:line 282
+11:57:46 ==> *************** TEST FAILED ***************
+
+12:05:18 ==> DataBase Connection Established successfully
+12:05:18 ==> *** BOT IS ACTIVATED ***
+12:05:18 ==>  Started Processing... 
+12:05:18 ==>  picked up data file: PREPOD_Fire_Data.xlsx
+12:05:18 ==>  Picked up Action JSON of Project: FIRE
+12:05:19 ==>  Sheet name: TestData
+12:05:19 ==>  picked up row: 1
+12:05:19 ==>  Assigning Driver: Chrome Driver
+12:05:21 ==> Executing Action: 1 URL: Went to URL
+
+12:05:27 ==> Executing Action: 2 Select: User Type Selected
+
+12:05:28 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:05:30 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:05:31 ==> Executing Action: 5 Text: User Id entered
+
+12:06:46 ==> Executing Action: 6 Text: Password Entered
+
+12:11:00 ==> DataBase Connection Established successfully
+12:11:00 ==> *** BOT IS ACTIVATED ***
+12:11:01 ==>  Started Processing... 
+12:11:01 ==>  picked up data file: PREPOD_Fire_Data.xlsx
+12:11:01 ==>  Picked up Action JSON of Project: FIRE
+12:11:02 ==>  Sheet name: TestData
+12:11:02 ==>  picked up row: 1
+12:11:02 ==>  Assigning Driver: Chrome Driver
+12:11:04 ==> Executing Action: 1 URL: Went to URL
+
+12:11:10 ==> Executing Action: 2 Select: User Type Selected
+
+12:11:11 ==> Executing Action: 3 Click: Dropdown button clicked
+
+12:11:13 ==> Executing Action: 4 Dropdown: User sub-type selected
+
+12:11:14 ==> Executing Action: 5 Text: User Id entered
+
