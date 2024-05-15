@@ -92,6 +92,7 @@ void InitializeConfigurationSettings()
     LogDirectory = appSettings("LogDirectory");
     keepbrowseropen = appSettings("keepbrowseropen");
     connectionstring = ConfigurationManager.ConnectionStrings["TestAuto"].ConnectionString;
+    string a = null;
 }
 
 try
